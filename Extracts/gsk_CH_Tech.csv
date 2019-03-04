@@ -1,0 +1,1135 @@
+,Comments,Date,Number of Likes,Post Content,Posted By,Seen by,Shares,Time,Views
+0,2,21/12/2018,57,"I wanted to take the time to update you on appointing leaders into the new R&D Tech Leadership Team structure, with the appointment of Michel Rider, who will join as the VP of Clinical Solutions, based in Upper Providence.  In her role, Michel will lead a team who will provide technology solutions to clinical operations, data management and biostatistics, and R&D portfolio management and will partner with the Clinical Development and Portfolio Management leadership teams in R&D.    Michel will be joining on 16 January 2019. Michel comes to us from Accenture, with prior experiences at Merck and in academic research.  Michel worked as a bench researcher in academia, gaining valuable knowledge of R&D, acquiring and preparing data to answer questions and contributing knowledge to the scientific community. At Merck, Michel's roles spanned from technical business analysis to R&D portfolio management. At Accenture, she recently served as the Managing Director responsible for Accenture’s Life Science Cloud products and offerings (currently used by GSK Data Management team members). Michel has a deep understanding of intelligent automation (e.g. AI, RPA) and technology enablement of the clinical development process.     Michel graduated from Michigan State University with a Bachelor of Science in Microbiology and earned a Master of Science in Management of Information Systems from Steven’s Institute of Technology.    Michel’s previous roles have prepared her to swiftly deliver our technology portfolio in Clinical Development and Portfolio Management, and lead our organizational transition to Product Orientation and DevOps.    
+I also wanted to take the time and update you on the current R&D Tech Leadership Team.  Adrian Cottrell, Ben Langley, and Richard Young will be leaving GSK in 2019.  They will support the transition within R&D Tech during the first half of 2019.  I look forward to their continued leadership and guidance as we transition to the new R&D Tech structure. I would like to thank Adrian, Ben, and Richard Young for their many years of service at GSK.    
+Adrian joined GSK 30 years ago, as analyst programmer, after completing his PhD in Physical Chemistry. During his career at GSK, Adrian has delivered a range of R&D solutions including Pharmacokinetics analysis solutions, Clinical Trial Management System (eTrack) and R&D Core Financials (Hyperion). Broader GSK solution deliveries include, single GSK Adverse Event Management (OASIS), electronic Trial Master File (eTMF), OnePharma for Medical Information management (MIND) and £30M funding for the GSK Regulatory Transformation (Veeva RIM). Additionally, Adrian collaborated with external partners to deliver automated clinical data management through the ALSC Consortium. He also played key roles in M&A activities (e.g., Novartis with both the Oncology divestment and the ingestion of Vaccine & Consumer Health R&D data) and defined the Tech roadmap to integrate GSK Japan with broader R&D. Adrian has recently driven the adoption of high performance computing (HPC) to enable Clinical Biostatistics & Predictive Modelling and Robotic Process Automation (RPA) to lower operating costs for Clinical and Pharmacovigilance.    
+Ben joined GSK 25 years ago as an IT graduate. He started with the Help Desk Services team, going on to run a Collaborative Technologies function, introducing R&D to instant messaging, screen sharing, and meeting management tools. He worked on several, ""once in a lifetime"" projects, including Tech delivery for the London 2012 Olympics Anti-Doping Lab facility. Over the past 6 years Ben has led a diverse team partnering with R&D Japan, China, and Finance & Portfolio Management as well as driving R&D Tech Innovation, UX and maximizing value from our published information and archives. On a personal note, Ben remarked, “I am proud of what I have helped Tech accomplish and can see more great opportunities to come. It's been a tough decision to part ways with GSK, but it is now time to focus on my family and pursue some different adventures. I feel lucky to have worked with some truly amazing people.”    
+Richard has worked at GSK for 27 years, starting as a Support Manager in the Preclinical domain, and having a variety of roles including Strategic Partner to Chemical Development, Programme Manager, Delivery Director for Discovery, Development and Lab Systems and finally, heading up Systems Delivery and Support. In these roles, Richard lead the R&D programme that set up the Poznan Competency Centres, delivered the Simplify Clinical Development Programme resulting in £60M per annum benefits, delivered many new capabilities to R&D, as well as leading pervious transformations of R&D IT and working closely with our outsources supplier to provide services to R&D.    
+Please join me in welcoming Michel and thanking and wishing Adrian, Ben, and Richard much success in their future endeavours. ",Mike Montello is with Mark Buswell and 4 others.,517,8,12:54,0
+1,2,08/01/2019,18,"The Project Search Planning Team in R&D Tech is looking for tasks for our Project Search student! Project Search is a program in which young adults with learning disabilities rotate throughout GSK to gain work experience and valuable skills that they can utilize when searching for future employment.
+We are looking for simple, repetitive tasks within R&D Tech (at Upper Providence) for the students to work on. If anyone has any tasks for the students to help with please email Caitlin.x.dalrymple@gsk.com.
+Our new Project Search Student is Kevin! Kevin will be working with our department on a 10 week rotation. Kevin is organized, detail oriented, and has good time management skills!
+Please see the link below for more information about Project Search. https://connect.gsk.com/…/gsk_house/Proj…/Pages/default.aspx",Caitlin Dalrymple is with Sunny Hung.,234,0,20:11,0
+2,2,09/01/2019,,"One of my offshore developers needs a license for Visual Studio 2017 for an experiment we're doing. We used to have a pool of VS licenses that someone managed, but that was a while ago. What's the new process?",Scott Harker,149,0,21:33,0
+3,3,04/01/2019,,"A lot of people I know are trying to pick up TFS on the fly. I'd be interested to know if there are any good training resources, Workplace groups or super users we can tap into?",Kate Llewellyn shared a post.,318,0,10:16,0
+4,3,09/01/2019,17,"What's that noise?!
+Mark and I are trying a little experiment tomorrow to see how often tickets are raised for R&D Tech systems. 
+We're setting up a little script on a laptop so that every time a incident ticket is raised to the R&D Tech resolving group in Remedy, it makes a noise...
+If we find noise annoying, imagine having to raise the ticket in the first place!
+
+Just a little bit of fun 😁
+
+ps - please direct all complaints to Mark...",Matthew Carver,208,0,15:19,0
+5,0,09/01/2019,,Introducing Skype Conversation History and how to find those missed conversations on PC and mobile!,Arron Docherty,129,0,13:30,0
+6,0,08/01/2019,8,"#RDtech, #Tech4RD",Julie Turner is with Bob Reid and Terri Strobel.,194,0,19:09,0
+7,6,07/01/2019,17,"Randall NG Platforms Uplifted Successfully
+
+Randall NG supports business critical (GxP) process for generating, managing and supplying (reporting) random treatment codes to assign treatments to subjects in clinical trials. Randall NG was at-risk for technical obsolescence of both Operating System (including Host Intrusion Protection) and Database. By updating the platforms, we ensure supportability, reduced vulnerabilities and managing our risks at acceptable level. 
+Despite significant efforts required to coordinate environment rollout with the upstream/downstream applications and integration services, with the extraordinary commitments demonstrated by everyone involved, we manage to achieve a seamless and successful cutover without reported issue! Hence, a big thank you to everyone who were involved and assisted.  
+
+Project team
+Sara Hughes (Sponsor)
+Chris Powton (Sponsor + Steering)
+Roger Malcolm (Steering)
+David Prior, Ross Kaan, Ezhilarasan Irulappan, Robert Redfern (AAB)
+Chidambaram Meyyappan (CTS-PM)
+Ching Hau Boo (GSK-PM)
+Vinay Kumar (Programme)
+Sufian Khairi Ahmad Maulana (SO) 
+Lee Cotton (Business-BSO)
+Janna Dene Scott (Business-UAT)
+Spartak Brahollari (Business-UAT)
+James Hopkins (GRC)
+Priyanga Palani 
+Rajeswari Ravindran
+Bishwajeet Ranjan (MTS)
+Padmavathi Vadali (MTS)
+Prem Sundhar M (MTS)
+Mithun Kumar Mohan (App Support)
+
+Downstream/Upstream applications Team 
+COMET : Sai Sudha Besta (SO), Russ Hornett (BSO), Roberto De Matthaeis (CFG) 
+RAMOS :  Sue Vernacchio (SO), Bruce Lecus (BSO),   
+Roberto De Matthaeis (CFG), Greg Pinter (Business - UAT)
+Xpress : Ravikiran M S (SO), Michael Leng (BSO),  Roberto De Matthaeis (CFG)
+SMS2000 : Andrew Williams
+HARP : Lee Seymour, Anthony Cooper 
+DMW : Mark Ricchini, Senthil Kumar
+ARGUS : Subhash Mistry
+
+Supplier Team
+Raghava Akula (Tech Ops – Solution Design & Provisioning)
+Nagendra Polu (CSI Operation Lead)
+Magdalena Jaskiewicz (Database Hosting Services)
+Karan Sharma (CSI)
+Nitin Singh (CSI)
+Rahul Saini (CSI)
+Vikrant Raut  (CSI)
+Miroslaw Jeska (ITCP)
+
+**The list might not be exhaustive, do PM me know if I have missed out anyone. 
+
+#RDTechSuccess  ",Ching Hau Boo is feeling energised.,347,0,09:43,0
+8,0,07/01/2019,10,"Congrats to trappier hall for his #RDTechSuccess in making Combiblocks and Enamine visible as preferred vendors in ICARUS. The result is “greatly improving the time and cost efficiency for reagent ordering at ViiV”, as described by the Viiv chemists themselves. This required networking across the procurement team, the vendors and tech to simplify the user experience. Well done, Trappier!",Leah O'Brien is with trappier hall.,260,0,16:28,0
+9,0,03/01/2019,17,"Happy New Year 2019!!!
+Welcome back everyone. First RDTech post of the year and so... Its time to start thinking about your plans for 2019 and in order to help you view your application landscape and many other useful bits of information there is a new improved version of the ALM Planning tool with a simplified interface. There is a new Application Summary Combined TAB which links the functions of several TAB's into a single screen. This and many other improvements were added after usability testing in the UX labs.",Tim Smithies,357,0,12:02,0
+10,2,04/01/2019,11,"Happy New Year!... What are you looking forward to in Tech?
+While we're all thinking about 2019 objectives, strategies and exciting changes in R&D Tech, I want to know what scientific and technological developments you are most excited about over the next year.
+This article highlights a couple of things, but what Tech are you looking forward to?",Matthew Carver shared a link.,369,0,14:25,0
+11,0,04/01/2019,9,"The post below details a change to Skype enabling 30 day conversion history, now live.
+https://gsk-workplace.facebook.com/groups/118792355430508/permalink/299951920647883/",Shane Weaver shared a post.,328,0,09:02,0
+12,4,31/12/2018,18,,Vanessa Halloran created a doc.,374,0,19:10,0
+13,4,17/12/2018,24,"I am pleased to announce a big success of access management automation that I have implemented in three pilot applications during last 4 months (LiveDesign, BioReg and Secure Science). It has not only reduced the amount of manually resolved tickets by approximately 100 per month, but also improved the end user experience by providing access to needed tools in seconds (comapred to one or two days before the automation).
+#RDTechSuccess",Krzysztof Pajszczyk,455,0,12:12,0
+14,0,21/12/2018,4,"Hope you'll find time to relax, reflect and enjoy the holidays! Wish you a happy, healthy and restful holiday.🎊🎉",Vinay Kumar,381,0,12:29,0
+15,2,05/12/2018,,Is there going to be a fix for all of the IMMS issues staff have been having with links not launching properly and it being a crapshoot as to whether IMMS documents will be viewable/editable when launching IMMS?,Bob Herrmann,536,0,20:09,0
+16,7,19/12/2018,36,Merry Christmas from the R&D Tech Stockley Parkers (and one grumpy elf!) 🎅,Takara Dover is with Pauline Jones and 11 others.,444,0,10:40,0
+17,0,20/12/2018,11,"VOC  for R&D Tech lifted from Pharma TMF Newsletter
+Bulk loader – a success story By Laura Turton CDO
+The Bulk Loader tool went live in April 2018 and was scheduled to import 18 migration studies from PhlexGlobal. From July, a total of 226,788 artefacts were imported into Pharma TMF enabling studies to achieve their migration end date to meet MHRA commitments. Besides boosting migration completion, this represented a cost avoidance of £907,152 compared to manually importing using TCS. It has been a challenging project at times but the dedication of the CDO and R&D Techteam has shone through to result in this great achievement. With the learnings and experience gained this year we are confident that the Bulk Loader will be a huge help to process artefacts returned from other vendors in 2019
+#RDTechSuccess",Dawn Berry is with Stephen McManus and Ted Iqbal.,388,0,09:19,0
+18,0,17/12/2018,15,"LabWare Competency Centre Team are pleased to announce that the newest version of the LabWare application (LabWare 7) for NLS goes live on Monday 17th December 2018!
+NLS is one of LabWare systems which will start to use the most up to date version of LIMS (Laboratory Information Management System) and ELN (Electronic Lab Notebook) to offer more capabilities.
+We expect this to provide greater possibilities for R&D members and we will continue to improve our services to R&D.
+We strive to achieve excellence with all of our systems to ensure that R&D receive the best possible service and we want to thank you for patience during the update process. 
+#RDTechSuccess
+I would like to thank everyone working of the LW7 update project for their efforts, engagement and hard work to complete this success.",Monika Piorkowska,431,0,12:36,0
+19,3,18/12/2018,21,"Wanted to share some of the accomplishments by the IDMP team as the IDMP Programme is coming to a close. IDMP (Identification of Medicinal Products) is a set of ISO standards for global specification of medicinal products, foundational for Falsified Medicines and Patient Safety Signal Detection. The European Medicines Agency (EMA) is first to implement IDMP for Authorized Product and Substance data, covering ~7000 of GSK registrations.
+Led by R&D Tech and in partnership with Rx, Cx and Vx BUs and Tech teams, 2 phases of the programme have reduced compliance and operational risks via:
+• Establishment of GSK Data Governance for EMA Referential and Organization data which aligned processes across Rx, Cx and Vx and is supported by a Global SOP and eLearning;
+• Advancement of the EMA Product Data Asset Readiness from 30% average across BUs to over 80%; EMA Substance data asset was advanced to over 90% across three BUs;
+• Implementation of an end to end Automation for selected EMA controlled vocabularies ensuring consistency between GSK and EMA and leveraging R&D Master Data Management (MDM) system. Cx Regulatory system is the first consumer of the data.
+Going forward, IDMP capability will be realized via Regulatory Information Management Platform delivered by Regulatory Processes and System Programme (RPS)
+IDMP is an example of successful collaboration amongst 3 BUs and their Tech partners. A BIG NOTE OF THANKS to the entire enterprise team for their valuable contributions!
+#RDTechSuccess",Anna Prokopchuk,421,0,16:54,0
+20,4,13/12/2018,13,"Another milestone for the CDISC Programme, release 2 of DMW Spotfire Reports went live on Monday - 1 week early! #RDtechsuccess",Nate Blevins shared a post.,536,0,11:43,0
+21,0,19/12/2018,2,"I hear about people doing Big Room Planning, but personally have no information about the results of such. As a result, I really do not have a good idea of what priorities are and what's upcoming. Which makes it hard for me to align my work to specific priorities.
+Is the Big Room Planning information shared broadly?",Kristin Love,391,0,16:05,0
+22,0,19/12/2018,15,"Windows 10 update - R&D Tech upgrades to start in early Q1 2019!  
+I’m excited to announce that Windows 10 upgrades will now start for R&D Tech in early Q1 2019.  
+R&D Tech colleagues will receive an email when you are ready to upgrade to Windows 10.
+Upgrades will be scheduled based on when your apps are Windows 10 ready 
+Each upgrade will require a visit to the help lounge. No push upgrade at your desk. 
+Laptops purchased before Jan 2016 will be replaced with the latest HP G5 laptop range. No need to wait for 5 year warranty to expire!  
+Laptops purchased after Jan 2016 will be rebuilt at the help lounges (Lenovo onwards) 
+GSKsync10 will be pushed to your Windows 7 machine in advance of your upgrade. 
+GSKsync10 will backup your local data to OneDrive and simplify the transfer of data and apps to your new Windows 10 device.    
+This accelerated tech refresh will enable R&D Tech to experience the latest Windows 10 upgrade before R&D migrations are scheduled to start from late Q1 2019.
+
+Happy Holidays!",Arron Docherty is with Ben Langley and 2 others.,416,5,16:05,0
+23,0,19/12/2018,40,"Hi All, as I was sitting in yesterday's Big Room Planning (BRP) event for R&D Tech 2019, I was reflecting on my last 4 months since joining GSK and what is in front of us in 2019.
+It's apparent that R&D Tech has embraced agile ways of working (great to see the use of the surface hubs and performing a virtual BRP from Upper Providence and Stevenage Innovation Centers - see screen shot below of virtual stickies). The BRP was focused on a subset of our priorities and was a good MVP to run the planning session. Technology solutions for enabling R&D to discovery and develop biopharma products, streamlining Regulatory, and enabling the management of the Portfolio were selected, which are key priorities for R&D next year. We'll continue to improve how we plan releases as we continue the agile journey, and include full scope into our planning.
+It's a great time to be in Pharma R&D Tech, with the new R&D approach and fascinating science with curative potential, new collaborations giving us access to rich data, and the most advanced information technology including our hybrid cloud that will power AI/ML advanced analytics. I really look forward to continuously improving R&D Tech to help enable the R&D strategy which will create many challenging opportunities for our team and as individuals.
+Although I was only here for part of 2018, I do feel the contribution you have all made and the contributions are significant across the end to end process of finding and developing medicines. Thank you for those contributions throughout the year, the systems that underpin R&D are enhanced and supported by you all and the contribution is significant.
+I hope everyone has the time to take a breather and to spend time with your families and friends (and pets, as I see we have a lot of them from Pets at GSK). And as individuals, reflect on the transformation and opportunities that such change creates. Looking forward to seizing opportunity and continuing to progress in 2019!
+Happy holidays!
+Mike",Mike Montello,440,0,14:38,0
+24,0,19/12/2018,5,"#News – We’re joining forces to create a new world-leading Consumer Healthcare Joint Venture and laying the foundation for separation to two new companies
+It's another big day for GSK. We've agreed with Pfizer to combine our consumer healthcare businesses which lays the foundation, in a few years’ time, for the future separation of GSK and the creation of two new exceptional companies - one focusing on Pharma/Vaccines and one on Consumer Healthcare. 
+Hear from Emma Walmsley on how today's news will accelerate our #Innovation, #Performance and #Trust priorities. 
+And read even more about the announcement here
+Click here for an infographic",Julie Turner shared a post.,364,0,13:10,0
+25,4,17/12/2018,19,"Effective immediately, we have a new service measure for customer satisfaction, replacing our Net Promoter Score (NPS) survey for projects.  Any product release into production, whether it be from a tiered project, small project or functional enhancement, should be followed up with the following:
+*""As a customer of a recent release of one of our products, R&D Tech greatly values your feedback on one simple question – “did you get the value you expected?”  Please use the link below to respond.  It should take less than a minute and it will be huge help to our efforts to continuously improve.   As a “thank you” R&D Tech will donate £1 to “Save the Children” for every survey response we receive.    https://gskselectsurvey.gsk.com/TakeSurvey.aspx?SurveyID=98KL7553L4 "" *
+The attached file provides you with a template email to use.  The results will be shared at R&D Tech LT each month.  If you have any questions or comments, please post them here.  Thank you for your support!
+Richard Young Mohammed Ali Abdul Jaleel",Bob Sutterley uploaded a file.,443,3,19:05,0
+26,0,19/12/2018,1,"I thought we were modellers, but we might actually be philosophers. At any rate, it's essential to understand data in order to become a data driven organisation.
+https://gsk-workplace.facebook.com/…/perm…/1331397853668618/",Kristin Love,371,0,11:41,0
+27,0,19/12/2018,7,"Happy holidays from us all at the Information Hub......
+#InfoHubCalendar",Prudence Mutowo,390,0,07:35,0
+28,0,18/12/2018,4,"https://www.bbc.com/news/technology-46604625
+I love the ingenuity of this....",Neil A Stewart shared a link.,425,0,16:36,0
+29,0,18/12/2018,,Is there anybody proficient in LabView programming that would be willing to help with some coding to log data?,Bob Herrmann,418,0,16:01,0
+30,0,18/12/2018,3,In case you missed it...  take a look at some of the highlights in Tech during 2018,Julie Turner shared a post.,391,0,15:16,0
+31,0,18/12/2018,4,"The GSK publications dashboard developed by the Information Hub and recently featured in the exciting 2018ScienceCountDown makes searching and filtering for GSK authored publications quick and easy.
+#InfoHubCalendar
+#2018ScienceCountDown.",Prudence Mutowo,397,0,08:00,0
+32,3,17/12/2018,16,"We are pleased to announce that Clinical Study Cockpit, a key DDA initiative and CMR Tech objective for 2018, went live on 7 Dec (#RDTechSuccess)!!   The Clinical Study Cockpit enables full visibility to in-flight clinical trial data and will allow study teams to use data visualizations for rapid decision making with intent to accelerate drug development.  Here are a few of highlights:
+
+A workshop with Covance in early Jan 2018 allowed us to rapidly assess technical feasibility. 
+CMR Tech LT members secured funding and governance approvals in Q1 2018 (Steering, Clin Ops, CMR Tech LT, PPRM).
+Multiple technical teams came together across the globe to implement a complex technical plan (mapping of 600+ data fields) including IIS, Support, MTS and the GSK Development Team.
+Special thanks to Catherine Sinclair (business lead), Shawntel Swannack, Barbara Suarez, Clarissa Watts, Tim Rolfe, Emilie Carr (workstream leads) and Jay Hilliard (BSO) for their leadership!
+And, huge thank you to John Cobb (tech program lead), Andrew Malinowski (tech lead/scrum master), Chris McCleary (business consultant) and Rob Redfern (technical architect) and teams for bringing this project to fruition!!
+Follow #ClinicalStudyCockpit to see how the early adopter studies progress in 2019!",Kate Foster is with Emilie Carr and 4 others.,435,0,14:05,0
+33,0,17/12/2018,4,"Did you notice anything?
+#makingiteasier",Julie Turner shared a post.,406,0,13:48,0
+34,5,16/12/2018,23,Fantastic work this weekend from the LabWare CC team who released the V7 upgrade for the NLS system into production. Well done to the team!,Tony Potts,469,0,21:26,0
+35,0,14/12/2018,4,"Oracle OpenWorld used to take place only in the USA, but next year they are bringing the event to London on 16th and 17th January at the Excel. There will be plenty of presentations and demos of future technology, and plenty of keynote speakers, including Jason Bradbury (from the Gadget Show) and the former Deputy Secretary-General, United Nations, LordMark Malloch-Brown.
+Take a lok at the Agenda and register for free at:",Nick Conley shared a link.,448,2,08:37,0
+36,0,16/12/2018,16,Well done to the Clinical Trials Supply Brexit team who released Phase 1 this weekend and are on track for release 2.,Tony Potts,446,0,21:23,0
+37,0,17/12/2018,2,"Searching The Proprietary Information Electronic Repository PIER  from the Information Hub has never been easier.  Follow the guidance in this short informative video for top tips on searching PIER
+#InfoHubCalendar",Prudence Mutowo,419,0,07:28,88
+38,0,14/12/2018,6,"If you missed the Microsoft Azure training on 11th December or want to view the session again, the video from the morning session is on GSK tube:
+https://wb.gsk.com/viewerportal/gsktube/video.vp…
+For those who attended, if you have any thoughts on the session and/or any ideas for future training on Azure or other Analytics products, please do post your ideas.",Des Burke shared a link.,465,0,10:38,0
+39,2,12/12/2018,27,Some video of the Analytics demo day....lots of interest in what Tech can do.,Mark Buswell,528,0,11:36,341
+40,0,14/12/2018,7,"The Information Hub mobile library allows you to access information resources on the go. So log in from any mobile device to continue accessing your favourite journal articles such as The Occupational Health of Santa Claus
+#InfoHubCalendar",Prudence Mutowo,434,0,07:55,0
+41,0,13/12/2018,7,"David Prior and I have been having some great conversations with Microsoft about how their Azure platform could be used to accelerate and enable our research objectives. Neil Jordan (Microsoft's World Wide General Manager for the Health Industry) has just shared this excellent document outlining Microsoft's 2030 vision for Healthcare, Artificial Intelligence, Data and Ethics. It is certainly worth a skim through if you have a few spare minutes.",Simon Thornber uploaded a file.,468,0,11:58,0
+42,0,13/12/2018,3,"Explore controlled vocabularies and how they can refine and improved your scientific literature searching. Use the EmTree vocabulary in EMBASE to explore relationships between indexed terms and retrieve associated publications..works well for Christmassy terms too!
+EMBASE provide by The Information Hub 
+#InfoHubCalendar",Prudence Mutowo,447,0,08:15,0
+43,3,12/12/2018,11,"Install Spotfire NOW to get a license while it's free!
+Our current (unlimited user) licensing model for Spotfire is changing so the number of users we have on Jan 1st will be how many licenses we are given. Any licenses above that number will be purchased individually at a (high) cost!
+By installing Spotfire and starting it up, you will become an 'active user' and will not have to buy an additional license if you need to use it. 
+If you're never going to use Spotfire, no problem, install it and then in the new year, uninstall it so the license can be allocated to somebody else!
+It won't take long, so do it as it's gets quieter and quieter as we approach Christmas 🙂",Matthew Carver,484,7,14:28,0
+44,,,,"Hello R&D,
+This communication is intended to those who have not yet installed or used Spotfire. To help us assess usage into 2019 and beyond, please action prior to end of year the validation of your Spotfire license, by following the steps in the attached document which will be a two to four minute activity.
+On Thursday, December 13th at 10am your local time, we will start automatically deploying the Spotfire client with a Spotfire license to all R&D machines.
+The Spotfire client will then be available in your Start menu.
+The rollout will be silent, so there shouldn’t be any user interaction required or interruption for you.",Matthew Carver,,,,
+45,0,12/12/2018,14,RDTech demonstrating the quality of our analytics at the Analytics Demo Day 2018,Tony Potts,476,0,11:31,0
+46,0,12/12/2018,1,"Be sure to check out our final Innovation Hub newsletter for 2018. It includes recent POVs such as: piloting a digital parking solution at UP, exploring AI/ML translation options, unveiling of our newest Innovation Station at UP, as well as a chatbot for improving the Procure to Pay experience.
+https://myconnect.gsk.com/…/…/Pages/Final2018Newsletter.aspx",Amber Anderson shared a post.,463,0,15:59,0
+47,0,12/12/2018,5,Interesting report on AI available from ElsevierConnect,Carolyn Squire shared a link.,490,0,12:53,0
+48,0,12/12/2018,10,"Hello all, I wanted to share a presentation that celebrates our successes as a OnePharma Tech Security & Risk (TSR) team and all that we have achieved in 2018. We could not have achieved so much without partnership from all our Tech colleagues, including R&D Tech. THANK YOU for your resiliency through all this change, staying focused and delivering on our key priorities. I feel incredibly privileged and grateful to work with such a strong and diverse team. Wishing you and your families a very happy holiday season. I look forward to 2019! #RDtechsuccess
+Lionel Fernandes Andrew Jeffrey Anna Chachula Aaron Bentley Jeff Canna Mindy Allport-Settle Daniel Levenson James Hopkins Rick Mooney Kim Hamilton Uma Shankar Basavaraj Dawn-Marie Hutchinson",Ying Liang Chai uploaded a file.,473,0,11:00,0
+49,0,12/12/2018,9,Innovation Hub showing Drawing On Expertise digital application at Analytics demo day at GSK House.,Mark Buswell,481,0,10:40,0
+50,0,12/12/2018,11,Spotfire Tool booth at Analytics demo day in GSK House.,Mark Buswell,487,0,10:36,0
+51,0,12/12/2018,2,"Are you on Santa's naughty list....?
+It's not too late to get onto  the nice list-  Just follow these top tips from the Records Management & Archiving (RMA),  good practices to adopt when sending paper records for archiving  that will ensure your submission is processed timeously and efficiently and bag you a place on that nice list!
+#InfoHubCalendar",Prudence Mutowo,467,0,07:22,0
+52,0,11/12/2018,4,"The legend of the Christmas (search) Spider
+The Information Hub Search guidance dubbed THE SPIDER is our intuitive and interactive tool that simplifies the process  of searching for content on the Information hub. Explore our  high level search categories and user scenarios to start searching our resources. It's  as magical as the legend of the Christmas Spider!
+#InfoHubCalendar",Prudence Mutowo,465,0,07:22,0
+53,0,11/12/2018,1,"WREF and the R&D Tech Innovation Hub are developing a wayfinding solution for parking at GSK’s Upper Providence campus that will provide information on available parking lots on digital monitor maps along entrance Gates 1 and 2, as well as a website available on mobile. Learn more about the collaboration here:
+https://myconnect.gsk.com/…/Inn…/Pages/UP-Parking-Signs.aspx",Amber Anderson shared a post.,463,0,21:38,0
+54,2,23/10/2018,16,"New starter? Even if not, it's never easy to remember all the acronyms we use. Good news, someone created a directory which contains most of them. Search for ""acronym wiki"" or click the link below and then hit 'New Acronym Browse Page'.
+https://myconnect.gsk.com/…/acronym_…/Wiki%20Pages/Home.aspx",Shane Weaver,694,3,09:19,0
+55,0,11/12/2018,,Dear all - This is Angel from Spain. We´re trying to set up a microfluidic equipment from Elveflow systems (an OB1 flow controller) but we are not experts in this field and we are experiencing some issues...could anyone help us? Many thanks in advance!!,Angel Santos Villarejo,480,0,11:39,0
+56,0,10/12/2018,1,"The latest Tech Change Summary for R&D is now available.
+The aim of the Change Summary is to provide a simplified view of Technology changes which are likely to affect your GSK PC or R&D business area within the next 6 months",Armin Jahromi shared a post.,482,0,21:46,0
+57,0,10/12/2018,5,Seeing if we can replicate this in-house ... https://www.nature.com/articles/s41592-018-0214-9#Ack1 ... looks promising,Peter McMeekin shared a link.,494,0,21:24,0
+58,5,06/12/2018,8,"I recently attended a Planisware User Conference in Paris. For those that aren’t familiar with Planisware (PLW), it is an application made up of an integrated set of Project, Program, Product and Portfolio Management modules to take an Idea to Market. It is used in Pharma R&D and Vaccines to manage drug development projects. 
+Key themes from a product perspective 
+Improved User Experience in v6.3
+New look and feel for v6.3 (released Nov 18), visual comfort, intuitive icons 
+Machine Learning (new in v6.3)
+Predictive analytics; leverage past project data to help provide estimates on current and future projects.  
+SaaS
+Moved from Datapipe hosting to two (UK and US) Planisware run data centres. Dedicated experts, performance improvements 
+Security and Privacy 
+Security by Design; Encryption Technology, Experience People, Compliant processes
+Privacy by Design; GDPR – personal data masking and encryption
+
+Agile was prevalent -  Agile mindset and delivery was mentioned in almost every topic and agenda item",Chris Smith is with Claudia Perales and Eric Gustot.,514,0,19:02,0
+59,0,10/12/2018,2,https://gsk-workplace.facebook.com/notes/rd-tech-enterprise-change/isign-to-adobe-sign-transition/2280406888910046/,Terri Strobel shared a post.,491,0,18:57,0
+60,0,10/12/2018,3,"Attention:JAVA dependent Application owners - You know I know who you are!
+
+Ok set aside a few minutes to read this while you struggle with that really important end of year Workday task .. I will only say this once 🙂 You will need to read to the end!!!
+So all of you already know that the Java SE 8 client will become a paid option from March 2019 if you want support, right? This means those folks supporting applications which have a dependency on Java 8 or ANY other legacy version (7 or 6) will need to, if you havent already, produce an approved RISK exception in RMS or stump up the £cash$. The risk is probably graded as LOW for internal apps and MEDIUM for External apps but you should do the analysis and confirm.  You MUST do this before January 21st 2019.
+I have attached the Excel application list to name the possible 62 applications.
+So this was the easy part...
+
+1) You will also have to provide an application MUD ID user list for your Java dependent application before January 21st 2019 and append that list to your RISK.  Please also send this list to Tim Smithies and Pravin Banthia
+2) You should also provide user list updates every 2 weeks from February 2019 if there are any changes. This will ensure that beyond March 2019 we dont get any friendly fire removals of Java 8. People get very upset you know...
+3) Any application which uses Java 8 after March 2019 will only be able to obtain it from AIT (the legitimate route) if you have that approved Risk and user list in place or you are paying for it.
+4) If your application has any AIT installation component then you should ensure there is a precursor check and Java 8 should be bundled as part of the installation. Contact the scripting service for help on this. As usual the Documentum apps are proving a challenge to plan and support.
+I will send this via email to the target audience in case no-one reads this stuff.",Tim Smithies uploaded a file.,487,3,16:16,0
+61,2,09/12/2018,27,"Thank you to the Philly R&D Tech team for sponsoring three children from the Delaware Valley Children’s Charity this year for the Holiday. I am sure the children will be thrilled when they open their xBox games, PS4 games, coats, clothing, books and more!
+We should be proud of our team’s impact toward this great cause; Thank you for helping to make these children’s holiday a little more cheerful and bright!",Vanessa Halloran is with Caitlin Dalrymple and 11 others.,532,0,14:54,0
+62,0,10/12/2018,1,"256 comments and questions entered into Meetoo today. As a priority we will start with posting and getting answers to the top ten 'liked' questions that did not get covered in the session. We will do this in one post instead of 10 separate ones, as initially indicated.",Julie Turner shared a post.,488,0,13:10,0
+63,3,07/12/2018,21,"On 6th December we went LIVE with Release 2.1 of Study Startup Site Activation (goBalto). goBalto Activate is a document exchange application that manages workflow of documents between GSK and clinical sites during study site activation & post activation. Since May it is being piloted by Early Adopters study teams across 9 footprint countries. This release will incorporate configuration for 2 more countries - Denmark and Italy, application upgrade, introduction of robust reporting from the Analyze reporting and capability to send safety & post-activation documents to investigators.  Interested to know more about Study Startup application? Visit Study Startup Project and Digital Clinical Trials topic sites.
+#RDtechsuccess",Vinay Kumar is with Emilie Carr and 12 others.,520,0,12:59,0
+64,0,10/12/2018,3,"Take a trip to the movies (500 of them!!!!)
+with the  Information Hub Proprietary Information Electronic Repository (PIER). A repository that supports electronic archiving, including functionality to index, search, retrieve and manage archived records (electronic and physical).
+#InfoHubCalendar",Prudence Mutowo,496,0,07:09,0
+65,0,10/12/2018,4,"On Monday December 10th at 10 AM local time we will start automatically deploying the Spotfire client to all RD Tech machines. 
+The Spotfire client will then be available in your Start menu.
+This is in preparation for having Spotfire deployed to all of R&D.
+The rollout will be silent, so there shouldn’t be any user interaction required or interruption for you.
+If you do notice any issues after the installation please contact:
+Al Munro
+al.e.munro@gsk.com",Alistair Munro,504,0,04:19,0
+66,0,07/12/2018,8,"We have been working closely with R&D Finance and HR to ensure systems and data are ready to support the new finance and people hierarchies following RD strategy changes. The mapping adjustments required were complex and the team needed to ensure we can implement with success for the at the start of next year. Thanks to Al O'Dornan, and others in RD Tech, for completion of the RD Systems impact assessment and establishing environments to model the new cost centre/org structures ready for 2019. Modifications have also been made to the Finance Year-End Rollover process to ensure the new structures are brought in at the right point of that critical process. THANKS TO EVERYONE INVOLVED #APXsuccess",Ben Langley is celebrating victory.,499,0,14:41,0
+67,0,07/12/2018,11,"CONGRATULATIONS to the goBalto and GSK team who sucessfully went live on 6th December with the next release of the GSK Study Start-up application (goBalto Activate) Release 2.1 is LIVE. goBalto Activate is a document workflow system that allows sites and study teams to better manage the site activation process, reducing timelines and is currently being piloted by Early Adopter study teams. It is part of the Digital, Data & Analytics strategy for clinical development. Interested to learn more on this Study Start-up application and this release? see goBalto Project website",Matt Lamming shared a post.,502,0,14:33,0
+68,0,07/12/2018,4,A great example of a high performing team that continually delivers value by keeping the end in mind and prioritising the data. Part of their success is due to embedding members of the Information and Business Process Modelling team.,Kristin Love shared a post.,502,0,12:03,0
+69,0,07/12/2018,5,"I know there are quite a few chess players in R&D Tech, as well a many people interested in AI, so I thought I would post a link to this recent paper in Science.",Simon Thornber shared a link.,501,0,12:51,0
+70,0,07/12/2018,,,Vinay Kumar shared an event.,478,0,10:57,0
+71,0,07/12/2018,2,"🎼Last Christmas.....❤️..🎼🎼
+A map of users accessing Information Hub resources on Christmas Day 2017
+#InfoHubCalendar",Prudence Mutowo,497,0,06:44,0
+72,0,06/12/2018,1,"After many years of work from the healthcare community, biopharma, patient advocacy organizations, non profits, and academia, FDA has released the framework for RWE. This is an exciting time and much needed document. Now the fun begins!",Des Burke shared a post.,510,0,23:23,0
+73,8,06/12/2018,17,"Congratulations to the eTrack team for reaching #VFQ Level 1.
+Been an absolute pleasure to work with you - well done",Mark Bailey is with Anna Bernatowicz-Malyszko and 13 others.,542,2,10:25,0
+74,0,06/12/2018,,"Wanted to share some news
+J Martin, SVP of Core Technology has resigned effective the end of the year. J has been a huge driver of the technology platform needed for us to become a truly digital enterprise and has been a trusted and talented leader in our Tech Transformation since his arrival in 2017. His impact on GSK will be felt for many years. His greatest achievement has been the assembling of an awesome team, who will continue their critical work to build digital platforms, upgrade our operations and innovate at the edge. J will be with us for the next few weeks, and I’d ask that you give full support to your fellow Senior Leaders from J’s team during this transition time. I’m expecting to announce new leadership early next year and until then the Core Technology team will report directly to me.",Julie Turner shared a post.,492,0,13:20,0
+75,0,06/12/2018,3,eTrack #VFQ maturity level 1 evidence pack. Put together by the eTrack team with their work and progress to level 1 and steps to go beyond,Mark Bailey uploaded a file.,502,0,10:27,0
+76,0,06/12/2018,2,"The Information hub  holiday countdown continues with our video highlights of the year-  The  Proprietary Information Electronic Repository PIER video  provides a quick overview of how PIER  facilitates secure long-term management of information archived by GSK.
+#InfoHubCalendar",Prudence Mutowo,498,0,07:00,0
+77,0,05/12/2018,2,"Start posting and liking questions using the Meetoo app ready for tomorrow’s event.
+Simply download the app on your smartphone or use the web-based version and enter the meeting ID: 151-297-441.",Julie Turner shared a post.,500,0,17:17,0
+78,0,05/12/2018,1,"Tech Let's talk
+The following rooms have been booked for tomorrows event:
+Navy Yard - Live audience, Dan Phelan room
+GSK House - AS4 South suite
+Poznan - GMS site, room 405/6/7 and BG site, room 3.21
+Upper Merrion - UMW23-1042
+Upper Providence - UP 04-3100 and UP 04-3208
+RTP - Sanders cafeteria
+Belgium - Condor at Mont St Guibert
+Stevenage - Sycamore House F16
+Please gather together with your teams where possible. If you have a specific request for another site, please reach out to me directly.
+Alternatviely, please view the broadcast from your desktop.",Julie Turner shared a post.,498,0,17:18,0
+79,2,30/11/2018,24,A first #VFQ foundation held at Stockley Park for 4 teams. A great two days with some great engagement and ideas. Thanks you everyone,Mark Bailey,554,0,08:05,0
+80,0,05/12/2018,,"First GDPR fine in Germany - €20,000
+A German privacy regulator has issued its first GDPR fine after a hacker stole unencrypted data on 100,000s of customers of a social media platform. The Baden-Württemberg Data Protection Authority fined Knuddels just €20,000 who stored user passwords and emails in plain text. Hackers stole 330,000 credentials and published them in Pastebin and Mega.
+Media commentary is that the companies good cooperation with the regulator, transparency around what happened, and the company implemented extensive measures to improve IT security, had a positive impact on keeping the fine low.
+It is clear that the aim of GDPR regulators is to improve privacy and data security, not levy big fines - for the time being.",Ying Liang Chai shared a post.,502,0,11:00,0
+81,0,05/12/2018,4,Congratulations to the team for a job well done! Great collaboration and teamwork.,Ranjeeva Ranasinghe shared a post.,507,0,09:35,0
+82,0,05/12/2018,3,"Ever wondered how many calories Santa consumes on Christmas Eve?
+The Information Hub provides access to journals that help you answer this and other relevant scientific research questions!
+Click on the [link](https://link.springer.com/article/10.1007/s00508-017-1306-8) to read this article..post the answer below if you get it first😄
+#InfoHubCalendar",Prudence Mutowo shared a link.,512,0,07:00,0
+83,2,27/11/2018,17,"Just finished the first usability test on Veeva Vault RIMS with a completely naive user. Fascinating to see the system through the eyes of someone who had no training and who had not been in configuration discussions.
+Thanks Anuradha Kumari. Looking forward to more sessions",Sandra Herr,568,0,11:47,0
+84,0,04/12/2018,9,"When is a GSK Windows 10 build not a GSK Windows 10 build?
+When its a VITRUAL GSK Windows 10 build... silly😃
+You should know by now that the latest Windows 10 E5 build, hot off the press as of last week, is available for your delectation.
+However apart from all the latest updates and tweaks you should be aware of a couple of things. Getting the builds to work for T4 and vPC builds has been a real pa** .. sorry.. challenge as there are some new features which require the upgrade of the underlying ESx or Citrix platforms. Thats why its taken a little longer to get the new virtual machines for testing.
+Technically some BIOS security features required by the Windows 10 E5 desktop builds were not available for vPC builds under the older ESx versions (anything less than 6.7).  So... we had to update that before we could get a *good* quality approved vPC or T4 Win 10 build.
+Secondly and more importantly in the latest Win 10 release there are a number of new security feature updates (aka removal of support for some risky legacy stuff like NTLMv1 see my previous post) . However because vPC's are built without some of these security features enabled you could be be lulled into a warm cosy feeling when your application passes Win 10 testing. Yay!!  But BEWARE, the same application may fail on a real persons computer, your physical laptop!
+So the moral of this story is... Always, Always, Always if you suspect something maybe a bit dodgy (technical term) with your application, test on both platforms.
+This information was brought to you through painstaking research and late nights.",Tim Smithies,533,0,13:55,0
+85,0,04/12/2018,9,"A few years ago IBM tried to build a super computer (BlueGene) to predict protein folding using a brute force approach, and tens of thousands of people left their playstations on running “folding at home” to do the same thing. Despite a huge amount of optimism and publicity neither approach met with much success. So I was fascinated to see that Google’s DeepMind have now thrown their AI/ML hat in the ring, and early results are promising.",Simon Thornber shared a link.,540,0,09:11,0
+86,0,04/12/2018,8,"Christmas Decorations are going up. Trim the tree with our range of Information Hub products for journal access, drug references, clinical trial information, archiving, pharma news updates and more..
+#InfoHubCalendar",Prudence Mutowo,527,0,06:45,0
+87,0,28/11/2018,7,Interesting read,Nick Conley shared a link.,561,0,08:26,0
+88,0,16/11/2018,,"Did you know that Office 365 and Acrobat Reader can be used to help you work with PDF documents, at no cost to GSK!
+
+We are running weekly Working with PDF documents awareness sessions, so come along to find out more.
+
+Find out how to convert a PDF document to a Word document and vice-versa, how to edit a PDF, combine Word documents into a PDF and much more.",Armin Jahromi shared a post.,589,2,15:31,0
+89,0,03/12/2018,3,Get that Fiori feeling! #thatfiorifeeling #makingiteasier,Toby Wragg shared a post.,509,0,14:24,0
+90,0,03/12/2018,7,More Red and Green (In progress and done & deployed) on the big board ! Experiment captures programme has successfully completed and surpasses objectives for 2018. Working on new integrations with GSK systems and delivering to the business new mechanism for experiment capture. A great example of agile and VFQ partnership within GSK,Richard Hather,541,0,13:52,0
+91,0,03/12/2018,,Stop by the R&D Tech Innovation Station today! 9:30-11:30 am UP 5-1134; and 2:30-4:30 pm STV 1B101,Amber Anderson shared a post.,519,0,13:16,0
+92,0,03/12/2018,5,"Lighten UP your Hannukah celebrations with the ‘Lighten UP’ your electronic records guide
+Happy Hannukah!
+#InfoHubCalendar",Prudence Mutowo,519,0,08:15,0
+93,0,02/12/2018,4,Join us for an exciting Information Resources-based count down to the holidays.... a treat a day until the holidays! Information Hub #InfoHubCalendar,Prudence Mutowo,538,0,22:12,0
+94,2,29/11/2018,5,Interesting event with GCP today on capabilities in Healthcare and Life Sciences,Dean Rynhoud,558,0,15:17,0
+95,4,17/11/2018,24,"I just had a great productive week in GSK Japan. I met with local leadership, our APX team and other Tech colleagues. It’s been 18months since my last trip and my first time to the new site. It is a VERY inspiring place to work. They are so lucky to have facilities like this.",Ben Langley,599,0,05:02,149
+96,3,21/11/2018,30,Want to get to know more about the new R&D site in Pu Dong Shanghai? Hopefully this video will help give you a feel for the site.,Ben Langley,599,0,00:21,230
+97,0,30/11/2018,,"Attention Skype for Business mobile users: A potential issue has been identified with the latest available Skype for Business mobile app version (6.23.0) preventing successful sign-ins on iOS devices.  At this time, we advise NOT to accept any Skype for Business mobile app updates until further notice.  Androids not affected.
+Work-around: If you updated your Skype for Business mobile app to the latest version and you are unable to sign in, go to 'Advanced Settings' from the log-in screen, and toggle 'Auto-Discovery' off.  Enter address: https://webdir.online.lync.com for both internal and external fields. Hit X to exit out of the advanced settings section, and proceed with sign-in.
+
+Alternatively, you may use Skype for Business Online via OWA (Outlook Web App) or Facebook Workplace chat for instant messaging on mobile.  WebEx may be used for virtual meetings.
+Stay tuned for further updates on this situation. 
+ ",Armin Jahromi shared a post.,528,0,17:48,0
+98,0,30/11/2018,9,Some interesting facts from the Library. Great to see the reach of the service.,Ben Langley shared a post.,543,0,12:18,0
+99,0,30/11/2018,4,Some interesting facts from our Records Management and Archive team,Ben Langley shared a post.,535,0,12:17,0
+100,0,30/11/2018,10,"This means Clinical Data Management are now able to create fully validated SDTM in near real-time after data entry into InForm, a major milestone and achievement for the CDISC project! This shows we can do this end-to-end for a simple study, we are progressing a BCMA Oncology study to test out DMW further, with an objective for 10 studies in 2019. We are also working with Merck, Pfizer, Lilly and Bayer to define DMW best practices that we can apply for the future studies.",Shaun Dunn shared a post.,541,0,11:56,0
+101,2,28/11/2018,25,"Great learning session today with the IQVIA team based at their Studio in Durham who are focused on Agile Development of solutions.
+Full visit report to follow in the meantime some key learnings.
+1. Use simulation analysis to build out a low fidelity prototype in 1-3 days
+2. Partner anything that isn’t core to your business
+3. Bring a technical architect on board at the start so before promises are made to customers on features that the build team have an opportunity to say whether it is feasible and realistic in the time frame requested by the customer!",Judith Reece is with Shivani Desai at IQVIA.,577,0,21:58,0
+102,0,29/11/2018,13,"NTLM v1 finally hits a roadblock
+It seems that a recent failure in our Windows 10 1803 testing has revealed a weakness in some of our oldest applications. The Aries platform, WEBREG and CRAW have finally been caught out by progress. The introduction of a feature in the Windows 10 Enterprise version in 1803 called Windows Credential Guard will not allow NTLM v1 authentication.
+This is due to the change from Win 10 Professional to Win 10 Enterprise and the use of Windows Credential Guard.
+Yes we still have apps using NTLM v1 😂
+So you have been warned... check your older apps arent using authentication protocols designed for the steam age or you will suffer the inevitable Microsoft march onwards. Take a read of this short article to see if you will be affected.
+https://docs.microsoft.com/en-us/windows/security/identity-protection/credential-guard/credential-guard-requirements",Tim Smithies shared a link.,584,3,15:09,0
+103,0,29/11/2018,6,"Hi R&D Tech - If you have Individual or Team successes that you would like to share, please use the following hashtag within your Workplace post: #RDtechsuccess",Julie Turner,539,0,13:44,0
+104,4,28/11/2018,21,"On a day when I've got back to back meetings almost all day - I pose the question... How do you make YOUR meetings short, relevant and productive?",Matthew Carver,581,0,09:08,0
+105,0,28/11/2018,2,"Stop by the Innovation Station Open House (at STV and UP on Monday, Dec 3)!",Amber Anderson shared a post.,547,0,19:59,0
+106,0,28/11/2018,1,#RDtech,Julie Turner,543,2,16:02,0
+107,0,28/11/2018,6,"If you didn't catch it ... great to see some of our Poznan BSC folks do battle at the recent Warsaw Hackathon. Really proud of the Small Projects mobile team (Nikolay Nikolov, Mikołaj Bujok, Konrad Mysliwiec, Kasper Spychala) for helping to build a mobile app. in support of dementia care as part of the event.",Andy Hayes shared a post.,548,0,11:41,0
+108,0,27/11/2018,1,#RDtech,Julie Turner,553,2,20:13,0
+109,0,27/11/2018,1,#RDtech,Julie Turner,554,2,19:53,0
+110,0,27/11/2018,4,#RDtech,Julie Turner is with Armin Jahromi.,564,2,19:10,0
+111,0,21/11/2018,6,"Some interesting Pistoia Alliance webinars and events coming up relating to Data Quality, AI/ML and FAIRification. Also noticed that Colin Wood will be speaking at one of them.",Femi Akintobi shared a post.,568,0,21:53,0
+112,0,26/11/2018,3,#RDtech,Julie Turner is with Bob Reid and Terri Strobel.,554,2,17:23,0
+113,0,14/11/2018,,"Hi there!
+Do we have any tool which can pull details of:
+* System serial number
+* Computer/Host Name
+* Current user logged In
+* Asset/Product number
+* windows Version etc...
+I need these details for managing PC inventory list. Request you to suggest any suitable tool.
+Thank you in Advance 😊",Kiran Mane,599,0,18:37,0
+114,0,22/11/2018,10,"Just attended a fantastic Women's Leadership Initiative Development Day- inspirational talks, amazing networking and great workshops- the take home message- Be bold!",Prudence Mutowo,568,0,16:41,0
+115,0,22/11/2018,13,"Malcolm Skingle presenting to a Science Industry Partnership meeting in London, where we are discussing how to increase the AI/ML skills of the UK workforce. Lindsay Edwards and Philippe Sanseau are also in the audience, so great representation from GSK.",Simon Thornber,576,0,14:56,0
+116,0,22/11/2018,4,"   STEM: Notable Innovators in Tech
+https://mashable.com/2013/02/03/black-innovators/?europe=true#9xB2FPEraPqr",Diane Hutchinson shared a link.,568,0,12:31,0
+117,0,14/11/2018,15,"The Human Subject Reseach Disclosure Project recently went live with a new Industry leading SaaS Platform (Trailscope) and the final stage was completed yesterday as the new GSK Study Registers went live.
+https://www.gsk-studyregister.com/
+GSK discloses all studies on our public register as part of the ongoing commitment to Transparency. The register provides access to important infomation for reseachers including Protocols and Results. Researchers can filter for studies that have results posted and even see if individual patient data is available for research use.
+The new site also allows patients to search and filter over 7000 studies by condition, status and location to e.g. find studies for their condition that are recruiting near them and it even includes a handy map!
+Congratulations to the whole project team for delivering this key component of our TRUST agenda.",Raj Bhasin is with Nalini Patel-Gill and 20 others.,598,0,20:19,0
+118,31,14/11/2018,78,Celebrating my 25th Service Anniversary at GSK Today… Overwhelming sense of gratitude and pride. It has been a great journey so far… Since joining the IT graduate scheme all those years ago I have had the opportunity to help GSK with many aspects of its mission and worked with some really amazing people. Yes there have been challenges and set-backs but I have learnt so much and there have also been some amazing high points too. I met my best friends through GSK. Most importantly I met my wonderful wife at GSK. Taking a moment to feel very thankful 😊,Ben Langley is celebrating an anniversary.,689,0,23:12,0
+119,0,20/11/2018,8,Our business partners are doing really cool things with data and visualisations.,Kristin Love shared a post.,575,0,18:25,0
+120,0,20/11/2018,3,"As we approach the end of 2018, it’s time to complete your annual role-based training review. As part of this expected** activity, you’ll be asked to upload an updated version of your CV and Job Description . 
+Adherence to role-based training requirements is critical in order to maintain project and quality compliance.  
+
+**Expected learning programmes apply where a specific skill, process or behaviour is required in a role.  All individuals assigned these programmes are expected to complete them so that they can conduct their work effectively.  Both Mandatory and Expected learning have due dates by when the training should be completed.",Takara Dover,569,0,15:25,0
+121,0,20/11/2018,1,"Reminder of the 13th Lite Bite Session being held this Wed. 21st The next VFQ Lite Bite Session #13 – DABL ((Discovery, Alpha, Beta, Live) is scheduled for Wed. 21st Nov 8-9am (BST) Click on the .ics below to add to your calendar. The Objective of these sessions: • Are you and your team following the Agile Solution Centre VFQ Guide Route? • Are you trying to implement new ways of working following the VFQ principles and essential practices? Have you identified an area where you and your team need more education? If so, then these VFQ Lite Bite sessions are for you. These sessions are open invitation to anyone that is practicing or looking to practice agile ways of working within their organization. #vfq",Andy Bonner uploaded a file.,575,2,13:16,0
+122,0,20/11/2018,,"**Reminder of the 13th Lite Bite Session being held this Wed. 21st ** The next VFQ Lite Bite Session #13 – DABL ((Discovery, Alpha, Beta, Live) is scheduled for Wed. 21st Nov 8-9am (BST) Click on the .ics below to add to your calendar. The Objective of these sessions: • Are you and your team following the Agile Solution Centre VFQ Guide Route? • Are you trying to implement new ways of working following the VFQ principles and essential practices? Have you identified an area where you and your team need more education? If so, then these VFQ Lite Bite sessions are for you. These sessions are open invitation to anyone that is practicing or looking to practice agile ways of working within their organization.",Andy Bonner uploaded a file.,546,0,13:15,0
+123,0,20/11/2018,4,"On Sunday 9th December (10am - 5pm), the UCL MedTech Society and UCL Artificial Intelligence Society are running the UCL AI in Medicine Conference 2018.
+""a one day bespoke conference focussing on the how artificial intelligence will alter the landscape of healthcare. We have gathered an  expert panel, formed of team members from IBM Watson, Philips, Babylon Health, myrecovery.ai and many other renowned names in the industry, to provide an insight into and discuss the latest developments in AI. 
+The day will consist of talks, discussions on the greater implications of AI, exciting workshops and networking opportunities.""
+Matthew Carver and I will be attending - if you're interested in coming along, sign up at the link below!
+https://www.eventbrite.co.uk/e/ucl-ai-in-medicine-conference-2018-tickets-52645655573",Ilan Shiradski shared a link.,580,0,08:15,0
+124,11,15/11/2018,43,"This morning Stockley Park celebrated a fantastic combined total of 90 years of service for Richard Lea, Shaun Dunn, and David Smart - congratulations guys!!",Takara Dover,629,0,11:33,0
+125,0,16/11/2018,5,"With the upcoming MHRA inspection next week, we’d like to remind you that R&D Tech Training Governance team are diligently monitoring changes to the R&D Tech Curriculum.  If you have any questions or comments related to RD Tech training, feel free to reach out to a member of the Training Board.",Takara Dover is with Anne Wragg and 4 others.,588,0,16:14,0
+126,2,15/11/2018,15,"A day being well spent at NYC Tech Up for Women Conference. Outstanding content and great insights by tech leaders from IBM, General Motors, Nasdaq, Xerox and many other companies. Some excellent insights on emerging technologies in healthcare such as Blockchain , AI and ML, big data.",Nishtha Gupta,600,0,18:00,0
+127,16,09/11/2018,45,"Many Congratulations to Roslyn Nilson who is celebrating 20 years with the Company today !
+Roslyn - thank you for the passion and energy that you bring to the team",Peter McMeekin,655,0,08:32,0
+128,0,15/11/2018,6,"Google 'Let's Talk AI' conference for EMEA just started
+https://cloudonair.withgoogle.com/events/data-ai/watch…",Peter McMeekin,596,0,09:53,0
+129,0,14/11/2018,19,"I had the opportunity to visit the Accenture Innovation Hub in Tokyo this week with ~15 other members of GSK Tech from Japan. It is a great facility for collaboration, ideation, user design and showcasing their work. Some good ideas for our Innovation Hubs. (I used Apple clips to put photos into a video clip and add live stream subtitles via voice recognition. Not perfect but a good attempt. Took me about 3minutes!)",Ben Langley,629,0,15:10,147
+130,0,13/11/2018,6,"Follow the red dot...just spend an amazing 15 minutes doing some user testing in the UX suite- top equipment, very clean, modern looking website and smooth facilitation (thanks @Sam Towse)...",Prudence Mutowo is with Sam Towse.,616,0,11:27,0
+131,0,14/11/2018,4,"Thinking about IoT and wearable devices, I was curious to see if there were any wearable devices that administered drugs to patients.
+I found this article which summarizes the different options nicely: http://www.biopharminternational.com/wearable-injection-dev…
+However, the most intriguing bit to me was West Pharmceutical's SmartDose system. It combines technology with administration to increase patient adherence, ensure patient comfort, and collect medication compliance data.
+West uses a SaaS medication adherence and patient engagement platform that works with an app that tracks and rewards patients for taking their medication, essentially ""gamifying"" treatment.",Alexandra Richards shared a link.,600,0,18:19,0
+132,0,12/11/2018,20,Thank you to our colleagues who made the last Philly area R&D Tech Orange Day of the year a success @ Philadelphia Ronald McDonald House. They got very creative (and silly) making breakfast for the RMH families.,Vanessa Halloran is with Timin Hadi and 4 others.,627,0,18:20,0
+133,0,14/11/2018,12,An example of how collaboration has brought about tangible data quality improvement with a subsequent positive impact on a key business initiative. Well done to the DQ Team!,Femi Akintobi is with Abhineet Kumar and 8 others.,612,0,16:14,0
+134,3,09/11/2018,18,"Genetic data now in prism! 
+I want to congratulate following R&D Tech folk Adewale Bankole, Alexis Piazza & The P3i2 IRM Prism Reporting support team (CTS) for their combined efforts to release a quick-win.  
+This is the first step towards enhancing R&D’s ability to understand the genetics for R&D pipeline projects by incorporating Target Gene Names into Prism.  This Is a real world use of the VFQ principle of delivering value early. Not holding back by waiting for the long term permanent solution which may take 6 months to deliver but helping R&D in identify the quick-win and assisting in rolling this out in 7 weeks.   Embracing this way of working has meant changes to our approach for managing deployments. A big change in expectations on the timelines for implementing changes by the creation of a standard change process to streamline the deployment approval. The support teams ability to turn around tasks will enable us to sustain frequent deployments. Keeping to the mantra  “Deliver value early and often”.  
+Let’s make this the start… giving the users the extra benefits that are possible from our production systems and be able to do this with the responsiveness they desire.",Nick Inman is celebrating success with Alexis Piazza and Adewale Bankole.,627,0,16:00,0
+135,0,13/11/2018,,"Question: Is it possible to chat with external partners using Skype?
+For the particular situation I'm asking they use Macs and Google Apps. However, I've seen them successfully join Skype Meetings (via the Skype App for Mac).",Shane Weaver shared a post.,610,0,17:05,0
+136,0,14/11/2018,13,Mike Montello takes his turn in the Tech Truth Booth...,Julie Turner shared a post.,598,0,13:32,0
+137,0,14/11/2018,,Useful information as we continue our Agile journey,Ross Kaan shared a post.,603,0,10:30,0
+138,0,14/11/2018,3,"A big milestone for the Data Journey team yesterday. The ADIE application went live. We can now publish assay data against ADD CloneIDs to KATE without using ActivityBase if necessary. Essential SPR, SEC HIC and DSF data in particular. Great work to the many who have contributed to the effort. Closing in on our 80% of Workflows capable of publication goal!",Stephen Ashman,605,0,09:34,0
+139,0,13/11/2018,,"Did you know you can synchronise a OneDrive folder that's been shared with you?
+This short video explains how! It's a very useful feature - it will help people quickly share files and folders by dragging and dropping into the shared, synchronised folder.
+Contains audio, runs for 2 mins, 38 secs",Armin Jahromi shared a post.,590,0,17:01,0
+140,6,08/11/2018,16,"Following on from my video post of Day 1 of the MIT CISR Conference, here is my highlights from Day 2. I have posted some slides below this time that should make it easier to follow. Also apologies the sound isn’t as good as there is some background noise. But hey it was live and in the moment! Also below is a link to my OneDrive folder where you can access all the material.
+https://mydrive.gsk.com/…/Ep3CfJzMfyJJtP9mJhP34goBMTab-cU-5…",Mark Buswell,660,0,20:53,0
+141,0,13/11/2018,3,"Is the future of Java JDK on the desktop FREE?
+Things are changing .. again 🙂.... Java is moving forwards into a mix of Open Java and Oracle Java. The latter will become a subscription based model so you will need to consider which lifecycle path you choose. GSK Core platforms will provide support for the most current version only in stepped 6 monthly releases on the Windows 10 desktop. There is however the option to join a Long Term Support stream (LTS) of which Java 11 is one. Beyond the first 6 months of each release support automatically transfers into the community unless you subscribe.
+Application owners will become responsible for their own Java JDK if they can't keep pace with the rate of change or they are locked into a vendor specific version.
+Make sure you talk to your vendors and make sure you plan for regular changes in the JDK in GSK or pay for your LTS stream like Oracle Java 11
+This also applies to both the desktop and servers, its the same JDK.
+Have a read of the attached presentation and if you have any questions contact Tim Smithies
+#JavaUpdate #LifecyclePlanning #OpenJDK",Tim Smithies uploaded a file.,605,0,15:49,0
+142,8,07/11/2018,18,"Was just playing around with Spotfire to pull in Remedy (ticket) data about different systems.
+The data is freely available to anybody in Spotfire, and can be used to view interesting statistics about any system, resolving agency etc.
+For example, there have been over 235,000 total tickets raised for CERPS, and almost half of those are from the UK! [visualisation here]
+
+Could be extremely powerful if utilised well!",Matthew Carver,645,0,14:44,0
+143,0,12/11/2018,1,"The latest Tech Change Summary for R&D is now available.
+The aim of the Change Summary is to provide a simplified view of Technology changes which are likely to affect your GSK PC or R&D business area within the next 6 months.
+
+#Tech4RD",Armin Jahromi shared a post.,608,0,23:50,0
+144,14,07/11/2018,27,Emboldened my Emma’s Q3 results video I thought I would do a video blog about day 1 of the MIT CISR Conference in Boston. It was a full on immersion in all aspects of Product Centric Digital Transformation. Let me know what you think - good or bad (but mostly good please...). Apologies for the mirror image of slides - I’ll have to figure out how to get them into the video so you can read them. But that’s for the next sprint!,Mark Buswell was live.,667,3,23:26,306
+145,0,11/11/2018,6,"Ben Ye and RD Tech Team in RD China have been experimenting with VFQ/mobile apps. We have shared before some details of HIV Drug Rresistance Tool (now confirmed as the overall Gold winner in the Global Medical Excellence Awards). Ben has been showcasing some of the work (and VFQ principles) with local leadership. The slides below may be of interest. Good example of being clear on the problem, true customer centricity, agile approach, MVP and many release, focus on the things that give the most value (and taking a few considered risks along the way). Uptake and interest has been strong and we can feed learnings in elsewhere.",Ben Langley uploaded a file.,619,0,08:11,0
+146,0,10/11/2018,2,https://gsk-workplace.facebook.com/groups/269661363811675/permalink/347931485984662/,Franciscus Van Amsterdam shared a post.,615,0,21:45,0
+147,0,10/11/2018,5,"Overview of Microsoft Azure, Databricks, Blob Storage, Quick tour around Power BI, Deploying a web app...and much more
+
+Interested?
+
+MICROSOFT AZURE TRAINING
+Tuesday 11th December
+
+Option 1:
+08:00 - 11:00 UK Time
+SKYPE LINK: https://meet.lync.com/microsoft/tawaltho/B76S26WL
+
+
+
+Option 2: 
+14:00 - 17:00 UK Time
+SKYPE LINK: https://meet.lync.com/microsoft/tawaltho/VBDWF244
+
+This is a technical session but is open to anybody who has an interest (you don't have to be in a Tech role) so feel free to share with colleagues.
+
+Any questions please email: Tamara.Waltho@microsoft.com",Vinay Kumar shared a post.,617,3,13:06,0
+148,2,31/10/2018,6,"I wanted to share this excellent review of our recent 60th Anniversary Pharma Documentation Ring (PDR) conference by Guy Martin, News Editor of The Pharma Letter which was pubilshed yesterday.
+https://www.thepharmaletter.com/article/the-information-challenge-the-questions-being-addressed-by-pharma-s-innovative-knowledge-managers-embody-those-facing-their-industry-as-a-whole",Helen Malone shared a link.,654,0,09:04,0
+149,0,09/11/2018,," Why Trust and Respect Enable Success
+ Sharing this great blog by Susannah Clarke at PMI:
+ https://www.pmi.co.uk/why-trust-and-respect-enable-success/?utm_source=PMI+Master+Subscription+List&utm_campaign=aa092fa215-BLOG%3A+Why+Trust+and+Respect+Enable+Success07%2F11%2F1&utm_medium=email&utm_term=0_d05426c8db-aa092fa215-46852711",Diane Hutchinson shared a link.,614,0,13:39,0
+150,0,09/11/2018,5,A quick report from the UK National Quantum Technology Showcase in London,Simon Thornber,624,0,10:02,0
+151,0,08/11/2018,4,"The R&D Infrastructure Modernization Strategy (RIMS) along with the File Transfer Acceleration (FTA) service would like to introduce the newest fast file transfer solution - FileCatalyst.
+FileCatalyst’s fast file transfer solution will accelerate the movement of large data files internally between geographically dispersed GSK locations. Additionally, the application provides workflow automation functions that will ensure consistent data flow within business area processes.
+To learn more about how you can leverage FC for your business need, check out our Getting Started page. https://cbshelp.gsk.com/…/Getting-started-with-Accelerated-…
+If you have any questions, please contact Matt Sowers (matthew.a.sowers@gsk.com)",Tara Gorney is with Mark Buswell and 4 others.,621,0,12:35,0
+152,0,08/11/2018,2,Bringing to life how a team use Value Flow Quality (VFQ) to deliver a new app.,Andy Iona shared a post.,612,0,09:33,0
+153,2,30/10/2018,5,"The R&D Tech Lead Forum have now confirmed the agenda for the next GSK/Oracle Tech Day.
+This event will be held on Tuesday 20th November (Registration opens at 8:30am and finishes at 4:00pm) at Oracles Innovation and Startup incubator in Bristol, and will include topics such as Cloud Computing, Virtual Reality, High Performance Compute etc. Anyone with an interest in Computational Chemistry, Cloud, and HPC will hopefully find these sessions interesting and informative.
+For more information on what will be covered please see the attached PDF. To register interest in attending the event, please register using the following link: https://eventreg.oracle.com/profile/web/index.cfm…
+For this event there will be no streaming available at the moment so attendance will need to be in person. If you wish to attend the event, please confirm with your manager prior to registering.
+For those travelling to the event, the address is: The Watershed, 1 Canon's Rd, Bristol BS1 5TX",Nick Conley uploaded a file.,665,0,09:57,0
+154,0,07/11/2018,2,"Great job to everyone who was part of our inaugural GSK SAFe training class.  We spent two fantastic days learning what it means to lead in a Lean-Agile enterprise using the SAFe framework.  It was extremely energizing to see the engagement and passion in the room to learn and improve our ways of working.  Thank you all for your time and participation.   Good luck on your SAFe Agilist exam – I know you’ll all knock it out of the park.  Next up, GDC tomorrow followed by RTP next week.  See you soon.",Ross Kaan shared a post.,623,0,16:43,0
+155,0,07/11/2018,28,Happy Diwali to everyone 🎆🎉. Diwali was celebrated today at R&D Tech Stevenage. A few pictures:,Sachin Singhal is with Saurabh Tiwari and 17 others.,639,0,14:12,0
+156,0,07/11/2018,1,"Hi everyone, for the next 2 weeks, GoodGoods is helping us fundraise for Save the Children and our own Trek for Kids. So if anyone is interested in some feel-food water bottles, check our my little pop-up shop: https://www.goodgoods.org.uk/sandrine
+You can buy absolutely beautiful water bottles and all the profit will go to Save the Children.",Sandrine Atkins shared a link.,616,0,10:14,0
+157,0,06/11/2018,5,"Combining open source ChEMBL data with newly sequenced parasitic worm genome information to inform drug discovery, lots of fun creating this workflow",Prudence Mutowo shared a link.,612,0,09:56,0
+158,0,05/11/2018,14,At Allotrope Board meeting. Currently discussing how Allotrope adopts a more Product centric focus. Committee are proposing two distinct roles...interesting in terms of how we think about R&D Tech becoming product focussed.,Mark Buswell,642,0,16:34,0
+159,3,31/10/2018,17,Strong focus on AI and the need for action now to skill up at Microsoft Future Decoded 2018. Looking forward to the next 2 days!,Chris K Smith is feeling pumped.,655,0,09:48,0
+160,0,02/11/2018,9,"Records Management & Archiving (RMA) has a new ""Start here"" page for people new to the RMA Service or PIER.
+https://myconnect.gsk.com/…/rd_recor…/Pages/New_To_PIER.aspx",Anne Schier shared a link.,647,0,12:25,0
+161,2,01/11/2018,23,"Another Philly area R&D Tech Orange Day! Thank you to those who helped bake goodies for the transplant families staying @ Gift of Life Family House. The House serves as a “home away from home” for transplant patients and their families by providing temporary, affordable lodging, and supportive services to those who travel to Philadelphia, Pennsylvania for transplant-related care. What an amazing mission!",Vanessa Halloran is with Caitlin Dalrymple and 10 others.,666,0,21:12,0
+162,0,31/10/2018,25,R&D Tech volunteering at Cradles to Crayons for Orange Day. We got a lot of great work done for them and had fun too!,Chris Michael is with Jacob Angert and 7 others at Cradles to Crayons Philadelphia.,653,0,20:46,0
+163,2,30/10/2018,8,"Here we go again ...LIBSSH vulnerability
+Another vulnerability to wet your appetites and make you wonder who actually spends time working out these loopholes.
+This one is childishly simple to exploit and so its important you patch as soon as practically possible (internally it should be on our regular patch cycle). The vulnerability only exists if you use tools dependent on the LIBSSH code. We also have a number of vendors who host solutions and applications for GSK that need to be contacted and ask what they are doing to remediate the problem and when they will fix it.
+I will be sending an email to those owners of SaaS, IaaS, PaaS and OBA systems.
+Internally you can do this as part of your regular patching cycles and is fixed by security patching the libssh libraries.
+More reading here https://www.bleepingcomputer.com/news/security/libssh-cve-2018-10933-scanners-and-exploits-released-apply-updates-now/
+#libssh #exploitandandvulnerability #GoogleIsYourFriend",Tim Smithies shared a link.,660,0,15:54,0
+164,0,01/11/2018,3,"Thrilled to help support the GSK presence at the ""Year of Engineering Lates"" at the Science Museum last night and to see a strong interest in Engineering at GSK and Ellipta :)",Ilan Shiradski shared a post.,638,0,14:10,0
+165,2,30/10/2018,10,Day 2 at Pharma R&D Informatics and AI Congress. John Baldoni kicked off with key note on the work of his in silico DPU. Key insight that I hadn’t appreciated versus the main R&D Technology Strategy is that John is focusing his efforts of applying machine learning post target selection - his DPU wants to transform the approach from target to impact on patient. This then differentiates with where the main R&D technology strategy is currently focused on Genetics and Genomics. Second up was a very interesting presentation from Eric Little from Osthus. Catch phrase was from big data to big analysis. He shared a semantic spectrum from weak semantics to strong semantics. Top of the spectrum is the application of ontologies. Bottom of the spectrum is simple lists that enable things like controlled vocabularies. He also contrasted data warehouses and data lakes - both of which have significant challenges. He suggested that the next trend was virtualisation whereby you leave data where it is and connect into meta-data. You then perform analysis where the data is rather than try and consolidate it into one place. I probably haven’t done justice to his talk but it was very thought provoking and I learnt a lot.,Mark Buswell,654,0,10:27,0
+166,0,01/11/2018,12,#Halloween Information ResourcesTreats,Prudence Mutowo,645,0,05:30,0
+167,0,31/10/2018,4,Looking for a couple of Stevenage-based volunteers to do some usability testing of the new GSK Study Register in the new UX lab in the next few weeks. Contact me if interested. Should take approx 15- 30 minutes.,Sam Towse,641,0,15:41,0
+168,0,31/10/2018,5,The results are in!,Julie Turner shared a post.,645,0,12:37,0
+169,0,31/10/2018,,Interesting paper on sampling molecular conformations and dynamics in a multiuser virtual reality framework,Nick Conley uploaded a file.,641,0,09:21,0
+170,0,30/10/2018,5,"Please join us on December 4th for PerkinElmer Informatics  Nexus 2018 user conference hosted at GSK Upper Providence, PA.
+Key agenda highlights include:Keynote presentation from TIBCO’s Chief Analytics Officer Michael O’Connell Introduction & Demo of Spotfire XCase studies from Industry including GlaxoSmithKline, Janssen, Merck, Dupont & more Showcase of new solutions Signals Notebook, Signals Lead Discovery & Signals Screening Don’t miss out, sign up now using the link attached.
+https://gskselectsurvey.gsk.com/TakeSurvey.aspx?SurveyID=n2KL794312
+#SCregistration",Steven Lubman shared a post.,645,0,13:30,0
+171,12,19/10/2018,3,"#RDtechTownHall
+Click 'Comment' (below image) to add your question for Mike Montello",Julie Turner,719,0,19:59,0
+172,0,30/10/2018,2,#vfq,Andy Bonner shared a post.,645,0,10:49,0
+173,0,29/10/2018,4,"Given the results of our poll (see Takara Dover post below), the L&PE newsletter will be published in this R&D Tech Workplace rather than via a separate newsletter. This will give us the flexibility to share news and updates in a more timely fashion. Look for items with #LandPE in the near future, including these hot topics...
+Tony Potts and Gill Clark will be sharing information to help us all on our agile ways of working journey - more VFQ for thos of us not on Lighthouse projects!
+Gill Clark will provide updates on the One80 and My Plan processes as we approach our year end.
+Finally, as our departmental GSK Survey results come in, the #LandPE team will share any interpretations and actions that are specfic for improving R&D Tech.",Bob Sutterley shared a post.,652,0,20:07,0
+174,2,28/10/2018,13,"Great to see the RD Tech China team (Ben Ye and Frank Chen) playing a key role in the solution that acheived 1st place in the Best Practice Adoption category as part of recent Global Medical Excellence Awards. The team used modern, mobile technology, product management approachs with many iterations and strong customer engament to scale from early Beta to active use in several countries (partnering with Pharma Tech)",Ben Langley is celebrating victory.,688,0,20:55,0
+175,0,29/10/2018,7,Genomics England have announced UK commitment to fully sequence 5m genomes in 5 years.,Mark Buswell shared a link.,671,2,13:20,0
+176,0,29/10/2018,6,#RDtechTownHall Genetically validated targets twice as likely to succeed as drug targets. Full details of this game changing science here;  licenced content courtesy of the GSK  Information Hub,Prudence Mutowo shared a link.,670,0,14:02,0
+177,3,28/10/2018,21,"Hi All, had the opportunity to tour the Ellipta factory, spend time with the Ware SLT and PSC Tech, and brainstorm opportunities to collaborate across OnePharma on Friday, was great to see Manufacturing in action GSK and novel uses of tech including VR, deep learning algorithms, and gamification techniques for learning and quality.",Mike Montello shared a post.,695,2,19:03,0
+178,0,29/10/2018,1,"DRP Service Team is preparing Disaster Recovery Plan Test Calendar for 2019. 
+For for all new systems that will be deployed into production in 2019 and
+the system will support a critical business process with a business Recovery Time Objective of 14 days or less
+the system will be hosted in and recovered to the GSK Global Data Centres: US1 (GDC), US4 (Colo), UK1 (STV) and UK2 (BRE)
+ATOS (3rd party) is able to help project team/System Owners to develop the new DRP Plan, plan and execute a DRP test exercise.
+Please let me know if your system meets the above criteria, including System name, RTO, planned Go Live date until 5th of November 2018. Thanks!",Anna Chachula,666,0,11:43,0
+179,0,29/10/2018,4,"At Pharma R&D Informatics and AI Congress...BIOVIA just announced the formation of a consortium led by them called BIOVIA Generative Design Consortium. In terms of scope it seems a more pragmatic version of ATOM but with a stronger emphasis on developing a software solution to drive in-silico design-test-make cycle. Their idea is to attract 10 industry partners who would be given voting rights on requirements and priorities, and would benefit from first year of production release prior to broader release. Apparently they have 3 partners already signed up and are looking for further 7. Probably digest issue for GSK is potential conflict with ATOM.",Mark Buswell,667,0,11:35,0
+180,0,29/10/2018,4,"At the R&D Informatics and AI Congress...anyone in R&D Tech spot anything they want me to follow up on just shout.
+http://www.global-engage.com/e…/pharma-informatics-congress/",Mark Buswell shared a link.,667,0,10:02,0
+181,0,29/10/2018,26,"On 25 Oct GSK and Microsoft sponsored a Women in Tech Workshop hosted by Newnham College and Judge Business School. Teams of talented women from Cambridge University tackled business case studies set by GSK and Microsoft. Each team had a senior GSK mentor to guide and help them. Teams then pitched their ideas. GSKs case studies were related to driving the Trust agenda to ensure people participate in medical research through consenting their genetic data in biobanks, and ensuring diversity is central to R&Ds focus on Culture as part of the Science x Technology x Culture new R&D strategy. Event was a tremendous success both for the participants and the GSK mentors. We’ve invited the winning team to visit Stevenage R&D site for a tour and a further opportunity to share their presentations. Thank you to all the GSK mentors and to Victoria Higgins who partnered with Cambridge to organise the event.",Mark Buswell,713,4,09:36,0
+182,0,28/10/2018,8,https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-…,Simon Thornber shared a link.,682,0,19:08,0
+183,0,28/10/2018,5,Mike Montello and Mark Buswell had the opportunity to visit GMS site at Ware last week with GMS Tech to learn more about new Ellipta Digital Factory,Ben Langley shared a post.,678,0,17:40,0
+184,0,25/10/2018,7,Interesting and topical article on Product vs. Project thinking.,Andy Iona shared a post.,684,0,15:45,0
+185,0,26/10/2018,,,Julie Turner updated the group cover photo.,670,0,13:14,0
+186,13,11/10/2018,76,"Congratulations to Mark Buswell (VP Tech, Discovery, Development and Lab Systems) on his appointment as a Fellow of the UK Royal Academy of Engineering (FREng).  The Academy brings together the 1600 most talented & successful UK engineers to advance excellence in engineering for the benefit of society.  Only 50 new members are selected each year based on nominations from existing Fellows.  The Fellows volunteer their time to provide independent advice to UK government and help other exceptional engineering researchers and innovators (globally) to advance the engineering profession.  Please join me in congratulating Mark on this achievement!",Mike Montello is with Mark Buswell.,786,0,16:56,0
+187,0,25/10/2018,2,"How will we incentivize ourselves and especially our vendor partners to help simplify our production landscape, when the end result would be that it lowers run cost that we pay them?",Nate Blevins,674,0,14:26,0
+188,0,25/10/2018,6,Some nice free training resources here for anyone interested in brushing up their Machine Learning skills.,Simon Thornber shared a link.,683,0,12:02,0
+189,3,23/10/2018,5,"Seeking innovative ways to speed up the patient recruitment process: 
+Attended an enjoyable and very productive workshop with my mhealth in Bournemouth last Wednesday. My mhealth provide an innovative digital solution for patients to manage their long term condition.  
+
+GSK's real world study team are collaborating with my mhealth to identify suitable patients from their real world data sources to take part in GSK's Intrepid Trelegy Study.  The main driver for this collaboration is to speed up the Trelegy recruitment process by using real world data to expedite the generation of a targeted list of patients which can be forwarded to the Primary Investigator.  
+
+Our Collaboration with my mhealth will help them deliver 3 key deliverables: 
+A list of suitable patients for the PI to initiate and progress recruitment in Southampton. 
+A new User Interface that will allow a more rapid querying of the my mhealth's data sources. 
+Evidence in the form of documents that support their software development process. 
+
+More about my mhealth:  https://mymhealth.com/
+More about Trelegy:   https://myconnect.gsk.com/sites/MedicinesAndVaccines/Respiratory/Pages/Trelegy%20Activation%20and%20launch/Trelegy-Ellipta.aspx  ",Diane Hutchinson shared a link.,687,0,16:16,0
+190,0,16/10/2018,6,"Will the real Java client step forward please
+The Windows 10 1803 E5 build has had another change just before its release to testers. Both Oracle Java SE 8 and Java SE 9 have been removed and replaced by Open Java. Yes you heard me correctly .. all change again. 
+it appears that if R&D wants to maintain any legacy versions we will have to provide our own support as platforms are trying to simplify and support only current versions of the desktop components and reduce costs.
+This potentially creates a financial overhead going forwards if we were to stay with the current licensed Oracle Java SE stream. Read the information in this link.
+The Windows 10 team is currently assessing the impact and will be looking at our options going forwards. Here is the link to the updated GSK Windows 10 build differences between 1709 and 1803
+We will update you with more information when we get it and we have more questions than answers at the moment.
+#JavaChange #Windows10 #OpenJava #MoreHeadShaking
+Windows 10 Team",Tim Smithies uploaded a file.,737,2,13:48,0
+191,0,24/10/2018,1,"UP site-wide meet & mingle today (Wed., 24 Oct., 2018) - 2:30-4:00pm
+R&D Tech is co-sponsoring a site-wide meet & mingle today (Wednesday, 24 October, 2018):
+Location: Upper Providence, Building 4, Atrium
+Time:  2:30-4:00pm
+Occasion: Community teambuilding benefitting local charities and fall celebration
+Light refreshments will be served and beer/wine will be available after 3pm.
+We look forward to seeing you there!",Julie Turner,679,0,13:53,0
+192,0,24/10/2018,3,https://gsk-workplace.facebook.com/groups/881225395403538/permalink/953662631493147/,Judith Reece shared a post.,679,0,10:55,0
+193,0,22/10/2018,2,This FLOW initiative could be a very useful resource for a lot of IT projects - I wonder if any of our BAs can contribute? We must have a lot of process maps hanging around that could be helpful to this project.,Alex Brown shared a group.,691,0,09:32,0
+194,2,18/10/2018,8,"Hey R&D Tech - start flexing those Workplace muscles ... there will be a follow-up post to collect information, prior to our Town Hall (25 Oct.) - stay tuned!",Julie Turner,715,0,12:43,0
+195,0,23/10/2018,1,"The GEMBAs of the AMT labs are at 10am and 11am today. Come and sign up in the pre-function area to visit the Pharma4.0 Digitisation lab, the Future Analytical Technologies lab and SynBio lab. Be quick as spaces are limited!",Armelle Tolson shared a post.,678,0,09:08,0
+196,0,22/10/2018,3,"There is more exciting news to announce about ViiV Healthcare’s single pill, fixed-dose combination, two-drug regimen (2DR) of dolutegravir and lamivudine. A New Drug Application (NDA) for this 2DR has been submitted to the US Food and Drug Administration (FDA) along with a priority review voucher (PRV). This submission follows the marketing authorisation application (MAA) that was submitted to the European Medicines Agency (EMA) in mid-September.
+A big thank you again to all the R&D Tech and broader Tech teams who swiftly responded to many issue escalations and provided hypercare and off hours support to key applications. Many thanks to Shailaja for your continued partnership with the D3 team leading up to this very significant milestone for GSK!!!",Ellen Lau shared a post.,684,0,15:12,0
+197,0,22/10/2018,4,"Useful reminder.......
+I recall 'Fall back - Spring forward' to remember if we gain or lose an hour.",Andy Iona shared a post.,689,0,14:26,0
+198,3,18/10/2018,7,,Julie Turner,712,0,19:35,0
+199,0,22/10/2018,11,Very interesting approach discussed with Vx and Rx on developing medicines and use of data and analytics!,Mike Montello shared a post.,697,0,11:41,0
+200,0,19/10/2018,6,,Armin Jahromi shared a post.,698,3,23:29,0
+201,0,19/10/2018,18,"Thanks to the Documentum Competency Centre, Cognizant and Platforms/Tech Ops team that helped to diagnose and address the significant CDMS print problems that occurred recently.  Those involved worked extended hours, under high pressure, with a tireless focus.  They have now understood root cause, restored service stability and have a clear set of actions agreed that will prevent future similar problems...  We recognise that the service degradation had an undesirable impact on GSK business activities and we will look to learn from the experience.  THANK YOU to anyone involved in restoring the service or managing the impact.",Ben Langley is with Richard Young.,703,0,18:07,0
+202,0,10/10/2018,5,"Workplace basics - to be Town Hall ready
+#RDtech",Julie Turner,745,0,16:26,318
+203,2,17/10/2018,1,"This will be an interesting market space to watch re: presentation software. Embedded live reports and real time updates to presentations vs. static files, for example.",Terri Strobel shared a link.,714,0,19:22,0
+204,0,17/10/2018,1,#RDtech,Julie Turner is with Nicki Green.,703,0,18:15,0
+205,0,17/10/2018,2,#RDtech,Julie Turner,708,0,18:14,0
+206,0,17/10/2018,2,R&D Tech - Take a look at the improvements to Workday in the Workday 31 upgrade!,Alexis Piazza shared a post.,706,0,13:41,0
+207,2,16/10/2018,8,"Thank you, Kate Foster, for the excellent Lunch and Learns on VFQ. It has been great four week learning journey for CMR folks –
+In four weeks we shared insights, experiences and learnings on:
+•Week of Sep 25th - Session 1 – Why Change?
+•Week of Oct 2nd - Session 2 – Deliver Value Early and Often
+•Week of Oct 9th – Session 3 – Optimize the Flow of Work E2E
+•Week of Oct 16th – Session 4 – Discover Quality + Fast Feedback
+P.S – Thank you Nancy Reber for taking care of lunch arrangements.",Nishtha Gupta is with Kate Foster and Nancy Reber.,713,0,18:26,0
+208,0,15/10/2018,10,"2018 US Pistoia Conference - Boston
+Joe Kelly, Timin Hadi and I attended the US Pistoia Conference in Boston last week. For those not familiar Pistoia it is a not-for-profit alliance for the reduction of barriers to innovation in Life Sciences, of which GSK is a founding member.
+Highlights from the conference included a key note from Dr Jim Sullivan - VP Global Discovery at Abbvie, who talked about the emergence of new modalities, the role of AI and discussed Abbvie's strategy and the importance of a ""winning culture"". Definite echoes of the GSK R&D strategy of Science x Technology x Culture.
+There was a quick overview of all the projects on-going - it was clear that GSK are generally engaged in projects, however it wasn't so clear how we were benefitting from or leveraging the outputs of projects. In some cases like User Exp for Life Sciences we have clearly leveraging through Simon Fortenbacher's UX work. However in other cases like Unified Data Model, FAIR Data Principles and AbVance it isn't as clear. For anyone more interested in all the Pistoia Projects check-out: https://ip3.pistoiaalliance.org/
+A number of new member companies introduced themselves - one in particular, Avantor caught my eye - they purport to have worked with Google to create APIs for complex high content data sets.
+Pistoia released the Life Sciences Innovation Report which they commissioned with Clarivate Analytics - this is pre-release to member companies only (see attached file).
+Lastly the Pistoia President's Award Dragon's Den was held and the judges winner was Ryffin (who we are well aware of), whilst the popular vote went to BreastIT , which is an innovative approach to health screening in Uganda.
+Overall conference was stimulating, the Pistoia Alliance is in good health, and it was a valuable networking opportunity.",Mark Buswell uploaded a file.,719,0,10:30,0
+209,0,16/10/2018,3,#vfq,Julie Turner,722,0,14:22,88
+210,2,12/10/2018,13,"Wire-Frame your Visualizations - Balsamiq
+If a picture speaks thousand words, Wireframes can speak ten thousand; perhaps more.
+Wireframe? a quick visualization (schematic, sketch) of what your team expects to include in an application - the high level functionality and key user journeys.
+Wireframes are great for agile, enabling faster, focused collaboration and avoiding verbose documentation.
+The best…they are quick to draft, share, review, and iterate, all without the stress of final design.
+Putting this out as Reminder that we have license to a top-of-the-charts tool - Balsamiq, which can make application sketching a piece of cake.
+Feel free to connect back, or write to UX CoE (RDTechUX@gsk.com), to get started.",Shweta Sharma,849,8,16:28,0
+211,0,14/10/2018,,"New janitor to delete content in Team Site Libraries and OneDrive for Business     
+
+Do you have content in an Office 365 Team Site or OneDrive for Business that you haven’t touched in a while?    
+
+In order to shift information management practice at GSK to 'routinely delete unless purposely retained' content within electronic repositories which are used primarily for collaboration, communication, or reference, a Legal initiative has been introduced to delete old content in Team Site Libraries and OneDrive for Business.
+There are new processes coming, including a janitor, which will automatically delete anything in your Team Site Libraries from 4 November (originally 21 October) and OneDrive for Business from 11 November that hasn’t been modified for three years or more.
+
+Reminder, direct communications to Team Site Administrators are starting to go out in a phased approach over the next 4 weeks and these refer to the new date.
+
+To learn more about this and other automated changes for inactive Team Sites, click here
+You can also check our Change Summary for R&D entry
+
+Questions? Please contact Global Records Retention",Jacob Angert,787,3,15:12,0
+212,9,04/10/2018,34,"Prize goes to anyone who can guess what the RD Tech LT and leaders were doing in the Stevenage Nucleus? Hint it involved DNA testing and biometrics...we just completed a two day face to face analyzing IPTxC, Tech, RD, and external stakeholder influences and how to respond via transformation, organizational competencies, and partner full potential ... look forward to sharing more as we set objectives for 2019!",Mike Montello,806,0,22:19,0
+213,0,12/10/2018,11,"Congratulations to OASIS team for being agile and compliant ...
+... when Japan mandated e2b R3 adherence for Adverse Events by April 2019 this presented a major challenge for GSK as the corporate system, OASIS, is not due to comply with this regulation until the planned upgrade in 2020. Congratulations to the joint business and Tech team for implementing the Vitrana solution that acts as an adaptor to ensure Japan compliance without disruption to the broader OASIS community.",Adrian Cottrell is with Steve Hobbiger and Raj Bhasin.,727,0,14:20,0
+214,0,12/10/2018,1,Knowns and Unknowns was this weeks Lite Bite. Content below,Mark Bailey shared a post.,727,0,15:05,0
+215,0,12/10/2018,13,"Many thanks to Kate Foster who has been facilitating CMR Tech through the four VFQ online training courses through a series of lunch and learn sessions. Great participation and energy in the first 3 session, one more to go.",Adrian Cottrell is with Kate Foster.,738,0,14:19,0
+216,0,12/10/2018,4,"Congrats to the Annette, Raj and Dawn for the approval to move forward with the latest set of RPAs supporting CMR, this time aiming at reducing TCS PV costs. I look forward to seeing this move into production early next year.",Adrian Cottrell is with Raj Bhasin and 2 others.,723,0,13:56,0
+217,0,12/10/2018,2,RD Tech Innovation Hub helped to enable a new virtual animal lab tour experience that is getting some visibility via this RD Workplace posting. Thanks to all the Tech staff involved to help make this a reality :),Ben Langley shared a post.,728,0,11:44,0
+218,0,11/10/2018,3,"Simon Bamber's team in Product Development does quite a bit of good work to enable leveraging data as a strategic asset.
+Our Information and Business Process modellers are embedded as part of his team, and they provide hands on support in building out data products. I have the privilege of working across the efforts on the information architecture for the Product Domain.
+Simon's team is full of highly competent people who understand how to approach complicated projects one small bite at a time, and who know that understanding the data is the key to customer satisfaction.
+It's a pleasure to work with them to create solutions that accellerate product development and will in the future lead to innovative insights.",Kristin Love shared a post.,727,0,13:53,0
+219,0,11/10/2018,9,"VFQ Level 1 certification achieved for MEDES team
+Congratulations to the MEDES team for achieving VFQ Level 1 certification from Emergn. They were described as a textbook example with solid behaviors and documentation, where Value has been stated, Flow measured, Quality controlled - creating a clear, knowledge-based capability.
+This success was made possible by the efforts of our core team members and the persistence from Kate Foster, their assigned personal coach. Kate helped the MEDES team understand and implement the VFQ concepts. As described by Jeffery Guss, ""I’ve seen our team mature from a group of loosely coupled, technically proficient individuals, into a gelled team. It’s wonderful to see this sort of investment actually deliver value.""
+MEDES Team recipients include: Geetha Muthuswami, Hella Bosteels, Mark Polinkovsky, Douglas Scheesley, Ryan Muthard, Kristen Love, Amol Katyare, Sachin Zope, Anu Singh, & Jeffrey Guss
+GSK coaches: Kate Foster, Mark Baily, & Desh Deshpande
+Emergn coaches: Neil Cousins & Steve Simington
+Well done!",Julie Turner,730,0,13:04,0
+220,0,11/10/2018,10,Looking forward to exploring what Google have to offer!,Chris K Smith is feeling inspired with Amber Shafi.,734,0,08:52,0
+221,0,10/10/2018,2,"If you haven't already seen this Personal Information (PI) Tool, it is pretty good,
+https://myconnect.gsk.com/…/Classification-vs-Categorisatio…
+Note: There is an enhancement request with the Pandora team to align options.",Daniel Levenson shared a link.,735,0,13:57,0
+222,3,03/10/2018,22,"Our R&D IT members in Poznan would probably never share that here thinking its too small, or not ready yet, but I will, becasue I am sure that its one of those ""small"" things that makes data more accessible, here you can see CDMS major incidents KPIs in real-time, available to anyone from anywhere, anytime ... and soon from any device",Wojciech Chrusciel shared a link.,783,0,13:49,0
+223,0,10/10/2018,3,"Well done to the Data Management Workbench (DMW) team !!!
+On the 5th of October, the Data cleaning Review Model (DRM) for the first DMW Early Adopter (study 206924) was promoted to production. The next milestone is to complete the set-up of the validation checks in DMW in time for the study team training week commencing the 15th of October. Data Management will then be ready to start cleaning in the new system.",Andy Iona shared a post.,729,0,10:51,0
+224,0,10/10/2018,,More #vfq lite bites are scheduled,Mark Bailey shared a post.,732,0,07:56,0
+225,0,09/10/2018,19,Congratulations to MEDES team for reaching VFQ Maturity Level 1. MEDES is key component of End-2-End Biopharm Data ambition and a key enabler of the R&D strategy to strengthen and accelerate the Biopharm portfolio. Proud of the team! Keep learning and pushing VFQ.,Mark Buswell,745,0,22:02,0
+226,0,09/10/2018,10,"A great R&D Tech evening social, round 2 of the Youngsters vs “Oldies” football match. Leading from the offset, the experienced side brought home a 5-3 victory! Well done to all involved, man of the match went to Jeremy Condie. With the tally at 1-1, watch out for the deciding match over the coming weeks!",Eddie Dukes is playing football at Stevenage Football Academy.,745,0,20:35,0
+227,0,08/10/2018,,Pistoia Alliance survey reveals more than half of Life Sciences organisations are using or experimenting with Blockchain. See the article here,Richard Bolton shared a link.,742,0,09:13,0
+228,0,09/10/2018,2,The next #vfq litebite is tomorrow on Knowns and Unknowns. See here for connection details:,Andy Bonner shared a link.,743,0,13:14,0
+229,0,08/10/2018,2,"The latest Tech Change Summary for R&D is now available.
+The aim of the Change Summary is to provide a simplified view of Technology changes which are likely to affect your GSK PC or R&D business area within the next 6 months.
+#Tech4RD",Armin Jahromi shared a post.,747,0,18:33,0
+230,0,05/10/2018,,"Say there was this guy who was working for an outsourcing company, so he had some access to the GSK intranet but didn't have access to PeopleFluent to see the available opportunities for Secondment or some other type of temporary assignments.
+How might that entirely hypothetical person go about finding out about potential opportunities?",Christopher Pucknell,755,0,16:45,0
+231,0,05/10/2018,6,CH Tech recently shared a video of an overview they ran on Product Management. It is about 1hour long but a nice accessible summary of Product Management concepts that could be useful as we move forward on our RD Tech Product centric #VFQ journey.,Ben Langley shared a post.,756,0,15:15,0
+232,2,04/10/2018,23,"Another milestone for the Stevenage UX Suite: an external software vendor (IDBS) came in to observe their MVP being usability tested by our scientists. Our Observation Room needs a little TLC, but great learnings for the vendor, product team and the UX team!",Simon Fortenbacher,774,0,15:10,0
+233,0,04/10/2018,3,#RDtech,Julie Turner,747,2,16:54,0
+234,0,04/10/2018,9,"Congratulations and thank you to the Study Startup Site Activation (goBalto) project team. GO LIVE for Release 2 was successful completed today. With this release integration with eTrack and Pharma TMF has been implemented and teh solution is now available for GSK Early Adopter studies, 204837 (Phase 3a study with Daprodustat) and 205801 (ICOS) in the Republic of Korea, USA, Spain, Canada, France, Germany, Sweden, and Russia.",Matt Lamming,746,0,15:28,0
+235,4,27/09/2018,34,The 23andMe strategic collaboration was a significant part of the Q2 update. I thought you would all be interested to know that the transfer of the first major 23andMe data packet completed successfully this week. This consisted of ~100Gb of genetic and phenotypic reports. We are expecting to provide access to approved scientists including Hal Barron within the coming days. A fantastic milestone in the journey to transform R&D's approach to discovering new medicines.,Shane Weaver,829,0,11:45,0
+236,0,01/10/2018,3,"R&D Tech Innovation Challenge
+The R&D Tech Innovation Hub is offering to bring one winning entry from idea to proof-of-concept with an innovation challenge beginning October 1st. Fill out a quick form with details about a problem you’re facing in R&D and your potential solution, and the Innovation Hub just might help you develop it.",Eddie Dukes is looking for business problems to solve!,774,0,09:56,0
+237,2,03/10/2018,11,,Matthew Carver,804,0,12:27,0
+238,0,02/10/2018,12,"An exciting day ahead representing R&D Tech at the TechM Innovation Day, focusing on driving innovation for the business through the application of the latest technologies.",Eddie Dukes is at The BIO Agency.,776,0,08:20,0
+239,0,02/10/2018,1,#RDtech,Julie Turner,762,2,19:46,0
+240,0,02/10/2018,1,#RDtech,Julie Turner is with Takara Dover.,761,2,19:45,0
+241,0,02/10/2018,1,#RDtech,Julie Turner,761,2,18:14,0
+242,0,02/10/2018,6,"Windows 10 desktop in R&D and RDTech
+Its all change again and TechOps has re-engineered the Win 10 build to take advantage of embedded and native  Microsoft Technologies. The NEW! GSK 1803 E5 production build will be available from 26th October. Details can be found here.
+All existing 1709 builds will have to be rebuilt and RAA versions will be available from November 5th
+WIPRO has been selected as our partner for the management and deployment of Windows 10 in GSK
+Repeat Windows 10 testing is not recommended except for a small number of critical applications and any testing you wish to perform should be completed by the end of 2018. See attached spreadsheet for the application list.
+Bulk deployment will not take place until early Q1 2019
+Please pass this on to any parties who may not read this posting or anyone who may have an interest in this update. We will be sending out more targeted emails to RDTech Service managers, Business Engagement folks and Business application owners shortly.
+Any questions please contact Pravin Banthia,Tim Smithies or Shantunu Malhotra.
+Addendum: Please let us know if you intend to test and when you could finish testing by after checking the above dates, thanks.
+RDTech Win 10 project team
+#NewWin10Build #Win10 #AllChangeWindowsDesktop #GSKDesktop",Tim Smithies uploaded a file.,766,2,17:01,0
+243,0,02/10/2018,3,23AndMe Webex 04 October,Ross Kaan uploaded a file.,761,0,11:29,0
+244,0,02/10/2018,1,"Thank you to all of you who have already provided feedback for the session with the VTLT and Manjeet this week.
+It is a great opportunity to give feedback and be a part of the change.
+There is still time for you to share your thoughts.
+Just write up a quick note to either Maarten or me.
+You can also send your feedback to directly to any VTLT member, like Bert.
+Topics could range from the challenges you see here at Tech Vaccines, opportunities we have for change or what you like to see different.
+Thanks, Drew and Maarten",Andrew Schatz,759,0,11:22,0
+245,0,01/10/2018,3,#RDtech,Julie Turner is with Chris Smith.,771,2,21:10,0
+246,0,01/10/2018,2,#RDtech,Julie Turner is with Chris Smith.,773,2,20:58,0
+247,0,01/10/2018,3,#RDtech,Julie Turner is with Chris Smith.,770,2,20:45,0
+248,0,01/10/2018,2,#RDtech,Julie Turner is with Chris Smith.,772,2,20:30,0
+249,0,01/10/2018,4,Welcome to the R&D Tech Admin Team Johanna Carfagno!,Takara Dover shared a link.,765,0,15:37,0
+250,0,01/10/2018,3,"#23andme will be at Upper Providence on October 4 for a fantastic introductory session... don’t miss this opportunity to learn more about our collaboration. 8-9 Eastern in the UP5 auditorium, with an introduction from John Lepore. This and related sessions will be recorded for on demand viewing. Watch this space.",Julie Turner shared a post.,778,0,13:41,0
+251,0,28/09/2018,2,"O365 Migration and Contacts Smart Tip - 
+Here is a link a 2 minute video showing how to sync outlook contacts with your contacts app.  Doing this will allow you to see your contacts via your contacts app (like you’re used to) and allow caller id for incoming calls and messages.  The first minute of the video is all you really need to do the sync.  The second minute shows you how to update these contacts.",Nishtha Gupta,769,0,15:01,0
+252,0,28/09/2018,4,"Calling for InfoBurst topics!
+Want to share your project's learnings? Have some insight on agile or VFQ? Want to share something that makes your workday easier?
+Comment below and I will reach out to get you on the schedule!",Alexandra Richards,781,0,14:26,0
+253,,,,"We experienced some WebEx pain yesterday, due to entry/exit beeps in our WebEx event. These 'beeps' were due to a default WebEx Event setting, which was incorrect. I'm sharing this to help others avoid a similar situation, since it was very annoying and frustrating (Note: these beeps cannot be turned off once the event starts)",Alexandra Richards,,,,
+254,0,28/09/2018,5,Congrats Emma!,Julie Turner shared a post.,775,0,14:22,0
+255,0,28/09/2018,6,"RD Tech, we are at 81% response rate for GSK survey, one day left to capture your voice!",Mike Montello,772,0,11:47,0
+256,0,27/09/2018,1,"It was nice to see the CDISC 3rd Quarter Newsletter give props to GSK for contributing to Vivli, a global clinical research data sharing platform. David Bobbit, President and CEO of CDISC said ""It is exciting to see the advancement of data sharing, which is undergirded and supported by standards."". The benefits of our own GSK CDISC Programme (Accenture Metadata Repository and Oracle Data Management Workbench) are not only building the capability to internally deliver CDISC standard aligned studies, but also to enable external initiatives like this. https://www.cdisc.org/newsletter/issue/third-quarter-2018
+https://vivli.org/news/why-gsk-is-a-member-of-vivli/",Nate Blevins shared a post.,763,0,19:26,0
+257,0,26/09/2018,15,Just listened to a very inspiring key note address by Dr Sue Black OBE at the Agile Business Conference. If anyone is interested on the broader application of Agile philosophy to life and the power of social media (she is credited with saving Bletchley Park which as a Tech professionals should be dear to all our hearts) then I recommend looking her up.,Mark Buswell,774,0,10:48,0
+258,0,27/09/2018,1,"Smart Control overviews have been attended by over 150 members of R&D Tech, if you missed out please let me know your location and I'll set up some more time zone friendly sessions.",Daniel Levenson created a poll.,763,0,14:47,0
+259,0,27/09/2018,6,"We experienced some WebEx pain yesterday, due to entry/exit beeps in our WebEx event. These 'beeps' were due to a default WebEx Event setting, which was incorrect. I'm sharing this to help others avoid a similar situation, since it was very annoying and frustrating (Note: these beeps cannot be turned off once the event starts)",Julie Turner shared a post.,767,2,14:23,0
+260,6,17/09/2018,2,1. Are you able to find the news and information that you need on Workplace?,Julie Turner created a poll.,822,0,19:27,0
+261,0,27/09/2018,17,"Another great networking session this morning in Stevenage; an update on R&D Tech's Mobility capabilities,welcoming a number of new starters, wishing farewell to Simon Roach and celebrating some impressive long service awards - congratulations to all!",Eddie Dukes is with Robin Cregan and 5 others at Gsk Stevenage.,773,0,11:47,0
+262,0,27/09/2018,14,"Hi all, I'll be sending out answers to the Q&A from today's webex ... for those of you who stuck with me for the beeps, thanks. And a reminder, get your GSK Survey feedback in by end of Friday!",Mike Montello,780,0,00:31,0
+263,0,25/09/2018,2,,Daniel Levenson uploaded a file.,770,0,16:51,0
+264,4,17/09/2018,1,"2. Does Workplace help you understand how different news aligns to Innovation, Performance and Trust?",Julie Turner created a poll.,822,0,19:30,0
+265,0,24/09/2018,3,"TalNet Hackathon
+Since mid 2018, we have been running an initiative to collect ideas from graduates globally (a population of around 1000 staff) to transform GSK in 3 different areas - innovation, recruitment and compliance.
+We have had massive participation, with a total of  42 ideas, 996 votes, and 2842 views across all categories to date on the IGNITE platform. 
+We are now holding our end of year event where the best 6 ideas will be judged by our panel of senior leaders, including Jen Baxter, Rajvir Madan, Shivani Kelly, Marc Dresse and Paul Buckley.
+Please join us in DG Auditorium or via Webex. More information in the event below.",Jonathon Simpson is with Qi Pan and Marian Shivji.,779,0,16:59,0
+266,0,24/09/2018,3,"MS Office 2016 1808 release available for testing
+The next release of MS Office 2016 (r1808) is now available for testing and the project team has reviewed the changes. Most of the changes relate to bug fixes on the existing product and there are some very minor updates which appear to have NO or LOW potential impact. The summarised assessment is attached for your information. Testing guidance is available here on PAGE 6.
+We are continuing to embed the office update activities into business as usual as part of maintaining our application currency and reducing our ongoing project spend.
+
+The key recommendations are:-
+No application testing required unless you have specific concerns which need to be verified
+Change controls should only be raised for GxP Office dependent applications even if you do not test. You must raise a Change either way so that you document your risk assessment and testing decision
+ALL dependent applications will be marked as WILL NOT TEST in the central tracker unless you respond to Pravin Banthia or Tim Smithies within 2 weeks by 5th October.
+Any testing that takes place MUST be complete by December 2018
+Windows 10 R&DTech Project team",Tim Smithies uploaded a file.,775,0,14:57,0
+267,0,21/09/2018,4,"Do you have specific questions regarding Computer System Validation (CSV), Regulated Electronic Records & Signatures (RERS), and/or Electronic Data Integrity (EDI)?
+Are you:
+• A Business System Owner for a regulated GxP computer system wondering what the industry and regulatory expectations are for your role?
+• A Tech Service Specialist evaluating what evidence is required to document a change control to your regulated system that will assure the system remains validated?
+• A Project Manager or validation project team member seeking advice around the approach to your GxP system validation?
+• A proponent of a new and innovative approach, methodology, technology or tool and curious about how it can be implemented in a way that ensures compliance to existing regulatory standards and expectations?
+• New to the concepts of Computer System Validation, RERS, and Data Integrity and thinking “how do they impact me”?
+• Experienced in the above concepts but looking for a sanity check on a particular CSV, RERS or EDI related issue?
+Computer Systems QA is here to help!
+Contact CSQA via our Global mailbox (cse.global-mailbox@gsk.com) and use ADVICE AND CONSULATION in the Subject line.
+All CSQA staff have extensive experience and training with CSV, RERS and EDI, providing regulatory interpretation and compliance, and supporting regulatory inspections. We will evaluate the query and respond in the most appropriate way (e.g. email response, request more information, set up a meeting to discuss, etc.) depending on the nature and complexity of the query in order to get the most adequate and comprehensive response for the situation.
+Computer systems permeate everything we do in GSK and are critical components of all our GxP regulated processes. Compliance of these systems is integral to GSK’s Innovation, Performance and Trust priorities and assures patient safety, product quality, integrity of regulated records, timely registration of new products and continued compliance of marketed products.",Bill McDonald shared a post.,783,0,17:43,0
+268,0,19/09/2018,2,"Slides from the Smart Controls session today. If any questions have come to mind after the session either post them here or email me.
+If you haven't yet attended a session please come armed with your queries.
+Please remember NOT FOR GxP",Daniel Levenson uploaded a file.,790,0,16:04,0
+269,0,21/09/2018,3,"The next Smart Control Sessions are:
+25 September at 1600-1700 (UK)
+26 September at 1630-1730 (UK)
+27 September at 0600-0700 (UK)
+iCalendar files in the attached (Workplace limitation on posting multiple files)",Daniel Levenson uploaded a file.,784,0,11:09,0
+270,2,20/09/2018,16,"HIV game changer asset Dolutegravir D3 EU submission announced Friday 14th Sep 2018. See details at this link: https://connect.gsk.com/…/Regulatory-submission-filed-in-th…
+This is a regulatory filing for a two-drug regimen of dolutegravir (Tivicay®) and lamivudine (Epivir®) as a treatment for HIV-1 infection in adults who have not received prior antiretroviral therapy. ViiV Healthcare’s two-drug HIV treatment seeks to reduce drug exposure and improve treatment adherence, while maintaining the level of efficacy achieved with three-drug regimens.
+Thanks to Shailaja Bulgannawar, our D3 Tech Partner for working closely with the D3 team, managing tech issues, ensuring team could effectively meet critical milestones. Thanks also to the broader R&D Tech teams who responded to issue escalations, provided hypercare support and off hours support and ensured key system uptimes leading up to this important milestone for R&D and GSK!",Ellen Lau,799,3,14:14,0
+271,0,21/09/2018,4,"Did you know you can co-author #O365 docs stored in your #OneDrive?  It's automatic!
+#Tech4RD
+You can also co-author files stored on your O365 migrated team site. [See how]",Armin Jahromi shared a post.,783,0,00:32,0
+272,0,20/09/2018,7,"The Project Search planning team in R&D Tech is looking for tasks for Project Search students! Project Search is a program in which young adults with learning disabilities rotate throughout GSK to gain work experience and valuable skills that they can utilize when searching for future employment.
+We are looking for simple, repetitive tasks within R&D Tech (at Upper Providence) for the students to work on. If anyone has any ideas for tasks for the students please email Caitlin.x.dalrymple@gsk.com or isha.8.bansal@gsk.com.
+Project Search was very successful last year at Upper Providence. Two out of the three students who rotated through R&D Tech found employment after the program! Let’s try to make this year even better!
+Please see the link below for more information about Project Search. https://connect.gsk.com/…/Project-Search/Pages/What-is-Proj…",Caitlin Dalrymple is with Sunny Hung and Isha Bansal.,788,0,15:29,0
+273,0,18/09/2018,4,"Summary of Tech Roadhsow 2018 conducted at GSK Asia (use headphones for full experience!)
+Chime in and let your voice be heard by clicking the link below https://gsk.pigeonhole.at/TRS2018 (max 2 mins)",Julie Turner shared a post.,816,0,17:17,0
+274,0,19/09/2018,5,... #DSAregistration- To Register for R&D Data Science Symposium click on the link below: https://gskselectsurvey.gsk.com/TakeSurvey.aspx…,Isha Bansal is with Sunny Hung.,790,0,17:07,0
+275,0,19/09/2018,1,#UP_Network,Julie Turner is with Alla Shpilsky.,795,3,13:25,0
+276,0,18/09/2018,3,#RDtech,Julie Turner is with Mike Ciarkowski.,804,2,19:47,0
+277,0,18/09/2018,2,#RDtech,Julie Turner is with Dan Brock.,813,3,13:37,0
+278,0,18/09/2018,1,"If you were unable to attend/view the Global R&D Broadcast yesterday, it is available on demand. Follow the link below.",Julie Turner shared a post.,819,0,12:31,0
+279,0,18/09/2018,,"Hi, I am looking for a point of contact who can help me identify the Pandora IDs for the R & D applications used in Australia. Any tips on this is much appreciated!",Shanthi Rajan,804,0,09:35,0
+280,0,17/09/2018,2,"Reminder - Join the R&D Global Broadcast TODAY!
+https://wb.gsk.com/viewerportal/gsk/home.vp",Julie Turner,825,0,11:47,0
+281,0,17/09/2018,1,Join us to find out how Brexit might affect GSK Tech and what we are doing to mitigate the potential impact.,Natasha Bennett shared an event.,799,0,11:30,0
+282,0,17/09/2018,1,Join us to find out how Brexit might affect GSK Tech and what we are doing to mitigate the potential impact.,Natasha Bennett shared an event.,799,0,11:24,0
+283,0,14/09/2018,7,"Application Lifecycle Planning tool gets 2 new TABS
+Another agile release of the ALM Planning tool now boasts improvments in the display of information related to your applications. 
+The Decommisioning TAB(20) groups information about past and present applications so that you see your portfolio alignment and TAL details. You should be making sure your applications all have a TAL date and TAL status.
+The new Clarity Project TAB(21) now shows you all of the ongoing projects and alignment of projects with any and all associated applications, useful for workload planning.
+Remember all the data you see comes from source material and if it is not correct you should go back to the original data. The data refreshes daily so you will see your changes the next day. If you have any suggestions or spot any mistakes contact Tim Smithies
+Hint:Works for all GSK apps not just R&D!!!
+#ALMPlanningTool #ClarityData #VeryHelpfulTool",Tim Smithies,820,0,11:19,0
+284,0,13/09/2018,18,New Apple Watch cleared by FDA as medical device - interesting stuff...,Richard Lea shared a link.,831,0,17:36,0
+285,0,14/09/2018,18,Co-location drives delivery. UX/UX. coders and Product Owners working together driving agile delivery. Also aided by some fantastic brownies provided by Megan Bell,Judith Reece,860,0,21:23,0
+286,0,14/09/2018,3,"I liked this article in particular around data culture, but in the link there are other, also very interesting, around AI and Agile Management ...
+Data and Analytics are becoming more and more a competitive advange for companies and need senior leadership focus to help this digital cultural shift come true.",Ross Kaan shared a post.,811,0,18:44,0
+287,0,14/09/2018,2,"Substance? Ingredient? Material? What's the difference?
+Using precise terminology helps us to communicate, and also helps us to understand which data is needed in which situation. #whymodellingmatters",Kristin Love shared a post.,809,0,18:34,0
+288,0,14/09/2018,3,US folks!,Alexandra Richards shared a post.,814,0,16:29,0
+289,0,14/09/2018,2,US folks!,Alexandra Richards shared a post.,809,0,16:28,0
+290,3,06/09/2018,1,How do you prefer to find out what's going on at GSK? Choose one.,Julie Turner created a poll.,1004,0,17:31,0
+291,0,14/09/2018,6,"We recently announced some realignment of responsibilities and reporting lines within R&D Tech APX to try and reduce fragmentation, improve accountability and take another step towards more product aligned thinking and ways of working within our team. Further detail can be found here
+https://myconnect.gsk.com/sites/GSKNews/Pages/news.aspx…",Ben Langley is with Peter McMeekin and Robin Cregan.,825,0,12:28,0
+292,5,10/09/2018,16,"As Ogura-san said, we had first innovation event in gsk J !
+A lot of of people came to event !
+And, I guess this is the first 360 photo in workplace ♪",Shunichi Kato,849,0,07:32,0
+293,0,14/09/2018,,"Recent debates about AI and the future of work have gained a sense of urgency, but professor Ken Goldberg says AI will be a complement, not a threat, to workers. Instead of embracing the notion that robots will surpass humans and replace us in the workforce, he argues for “multiplicity” — a hybrid view of how new technologies and people might work in partnership toward human goals. #AI",Bob Sutterley shared a link.,810,0,01:59,0
+294,0,13/09/2018,1,"Wireless auto-connect coming to R&D!
+#Tech4RD",Armin Jahromi,809,0,19:25,0
+295,0,13/09/2018,2,"Ben Langley kindly shared the following: ""The R&D Tech Japan team (partnering with Pharma Tech and the R&D Japan Business Innovation team), ran a site Roadshow event showcasing some current and possible future Tech on Monday. They estimated around 300 people came through during the day. The event was a success and a great way to engage with R&D staff"".",Julie Turner shared a post.,860,0,12:45,0
+296,0,13/09/2018,1,"The GSK Survey is now OPEN!
+https://connect.gsk.com/…/Its-here!-Your-feedback-matters-G…",Julie Turner,834,0,12:37,0
+297,8,12/09/2018,27,Please join me in giving a huge round of applause to Anita Forster who has completed an amazing 35 years at GSK! Anita joined as youngster from school and has been instrumental in developing and evolving GSK's digital library. Anita's creative spark and interest in applying tech is a real asset for our team and R&D Tech as a whole. Thank you Anita for a fantastic achievement and for being such an inspirational member of our team!! It's been an absolute pleasure. All the very best for many more successful years!,Helen Malone,853,2,08:33,0
+298,0,13/09/2018,1,#VFQ,Julie Turner shared a post.,830,0,14:09,0
+299,0,13/09/2018,4,I am pleased to share the following announcement on the DMW program which has delivered another important milestone as scheduled. Many thanks to all project team members and stakeholders for helping to ensure this important milestone was delivered on time.,Andy Iona shared a post.,818,0,10:02,0
+300,0,12/09/2018,,"Contacting ERStudio Support team :
+ERStudio Data Architect and Business Architect are our data modelling and business process modelling platforms.
+To contact the team regarding tool support issues or access, 
+Contact the helpdesk team by either using the GSK Chat link or phone number.
+GSK Live Chat Help - 
+• https://iwhc.gsk.com/servicegateway 
+• GSK Helpdesk # - 8901144 – 8005873600 
+Raise concern/issue (with Attachments/Screenshots) with the help desk team under this category INFORMATION MODELLING PLATFORM.",Kristin Love shared a post.,817,0,14:01,0
+301,2,02/08/2018,4,Would be great to have some RD Tech driven ideas supporting this. Anyone up for the challenge?,Ben Langley shared a post.,951,0,16:11,0
+302,0,12/09/2018,4,#RDtech,Julie Turner is with Richard Bolton.,827,2,14:01,0
+303,2,12/09/2018,11,"eTrack Maintenance Release succesfully implemented into Production!
+eTrack Maintenance Release went live 9th September to the business across Pharma R&D, Vaccines R&D and Consumer Health R&D to all eTrack users. Following the VFQ experimentation principle, we used Agile approach in which Tech and Business collaborated tightly while learning new ways of working. We implemented requirements that will improve data quality and integrity, ensure accurate reporting to the regulatory authorities and provide a better user experience.
+We would like to say thank you to all the people involved: Big thank you to eTrack Product Owner, Gary Denman and all key stakeholders involved in the process Barbara Mitchelll, Yves Tellier, Nadine Schober, Susan Greco, Joan Gilmore, Jennifer Van Ekelenburg.
+To QRC team with Lee Angel and Aaron Bentley for guidance and supporting us in our Agile experiment.
+And, of course thank you to all eTrack Team members: Abhinav Das, Harishankar Thamburankandy, Mateusz Kolenda, Tomasz Kawecki, Ilona Lukowska, Ewa Samardakiewicz, Kacper Zuranski, Krystian Petecki, Mariusz Pentelski, Tony Lewis, and all members of Cognizant eTrack Support Team.
+We are now planning to carry out our next VFQ experiment, using our learnings to optimize the flow of the agile delivery process for validated applications.",Anna Bernatowicz-Malyszko,831,0,07:40,0
+304,0,11/09/2018,2,Recommended reading!,Terri Strobel shared a post.,823,0,20:34,0
+305,0,11/09/2018,8,"Big thanks to Julie Turner, whose 5 minutes of advice got me past my difficulty in creating a presentation. As a result, I was able to get some reasonably sensible slides created in under 30 minutes. #recognition",Kristin Love,824,0,20:03,0
+306,0,11/09/2018,1,"The latest Tech Change Summary for R&D is now available.
+The aim of the Change Summary is to provide a simplified view of Technology changes which are likely to affect your GSK PC or R&D business area within the next 6 months.
+#Tech4RD",Armin Jahromi shared a post.,836,0,16:23,0
+307,0,11/09/2018,2,"Smart Controls are here for non-GxP applications.
+Please see the attached for some background and look out for invitations to briefing sessions.
+Want to discuss now? Contact Dan Levenson",Daniel Levenson uploaded a file.,852,0,16:04,0
+308,0,10/09/2018,12,"We had a first Innovation and Tech Road show in Japan today.
+I am proud that most of solution and Ideas were came from R&D tech, such as RPA, AI Translation, Voice Recognition and Translation for meeting support, Pepper the Robot, VR, Galvani, Veeva, and Power BI from CH.
+Good Job, all!",Shinichi Ogura,857,0,07:08,152
+309,43,05/09/2018,77,"So this is what 35 years does to you... Congratulations and massive thanks to Robin Cregan as he celebrates his 35 Year Service Anniversary at GSK.  Robin continues to have significant impact through the work he is doing to drive Tech contributions for R&D Finance, WWBD, TPR, RPA, Brexit, etc.  Many of us have actively benefited from the way he so freely shares his wealth of experience. GREAT TO HAVE YOU IN THE TEAM.  THANK YOU ROBIN",Ben Langley,970,0,08:28,0
+310,0,06/09/2018,2,"#RDtech
+URL: https://myconnect.gsk.com/…/09_Sep-06_DigitalStamp_JammyNiu…",Julie Turner is with Ben Langley and Simon Fortenbacher.,853,2,14:13,0
+311,3,06/09/2018,8,"Windows 10 - Well done everyone and Next steps
+Most of you should now be back from your summer holidays and its back to school.. sorry ..work 🙂 and its all change again in the Win 10 space.
+Win 10 deployment is on hold for all GSK
+Win 10 v1709 RDTech and RD business testing 99% complete ⭐⭐⭐⭐⭐
+Most of our testing is now complete on Win 10 v1709 and we have shut down our internal testing teams except for those still in remediation activities. The next release is Win 10 v1803 but this comes with a twist... its actually being called v1803 E5 (I have no idea why.. perhaps some sort of Tech Platforms rebranding) There are some critical differences of note. See here for GSK details and here for MS information.
+NO MORE Symantec 👏👏 Its being replaced by the MS equivalent security products including the SCCM deployment product from MS. PowerBroker is likely to go and SCCM for application elevation will replace it. Digital Guardian however is likely to stay.
+So what does this mean?
+Well ... no more testing for a while and in fact we wont do much until the E5 build is released (Perhaps October?). Our recommendation is that minimal retesting of a small subset of applications will be required (TBA) when that comes out.
+Speak to Shantunu Malhotranu, Pravin Banthia or Tim Smithies for more details.
+#1803E5 #Win10 #MoreChangesOnTheWay",Tim Smithies,843,2,15:02,0
+312,0,06/09/2018,,"This might be something to watch. “The joint venture will use big-data analysis and other high-tech tools to improve care and cut [healthcare] costs.” If you have not heard of physician writer Atul Gawande, you can find many talks from him on YouTube about how to transform healthcare.",Nate Blevins shared a link.,833,0,11:26,0
+313,0,06/09/2018,,I have found this website to be a real gem:,Tiara Warlop shared a link.,831,0,11:14,0
+314,0,06/09/2018,,The slides and recording from the 5th Lite Bite session (Value Stream Mapping) are now available... #vfq,Mark Bailey shared a post.,826,0,09:34,0
+315,2,31/08/2018,28,"Some time ago I signed up for the daily VFQ Insights emails (I know some of you have too because you have mentioned items from them to me) Today’s nugget was on Gratitude and it especially resonated with me after a particularly tough couple of weeks (months) with the CDMS D2 project. Important to keep bigger perspective and focus on the positives...
+...Extract from today’s VFQ insight (and link to sign up) below
+We all know how important attitude is in our lives. Our ability to maintain a balanced perspective often makes the difference between reacting and responding to specific situations.
+While perspective is important, as is remaining positive, there is still one other dimension of attitude that often goes unchecked - gratitude. This is something that can literally change how effective and impactful you become, especially in your work and day-to-day routine.
+Gratitude is a deep-seeded belief. It’s an ongoing acknowledgement of thankfulness not entitlement. It’s an attitude that says I get to do this vs I have to do this.
+As Thornton Wilder put it, “We can only be said to be alive in those moments when our hearts are conscious of our treasures.”
+Consider
+Studies on gratitude repeatedly show that it helps people perform exponentially better than those people that remain more neutral in their views.",Ben Langley shared a link.,852,0,07:47,0
+316,2,31/08/2018,10,Thank you Mark Hessey for sharing your thoughts on the IDBS E-WorkBook rolled out to 19 users by the Experiment Capture Futures team. Great news that the performance is a marked improvement on eLNB but lots of ideas for where we should be concentrating effort and improving in the near future. #vfq,Dan Brock,862,3,14:11,163
+317,3,28/08/2018,28,"Mike Montello, new SVP of R&D Tech, visited the UK last week. He met with Simon Roach, and was introduced to staff via an informal 'Let's talk' session, which summarized his background and captured his initial thoughts on the future of R&D Tech. The recorded session is available here (click the video to view).",Julie Turner is with Mike Montello.,899,5,23:40,343
+318,0,05/09/2018,1,Value Steam Mapping is a great way to visualise your work flowing through the team and is the topic of this weeks Lite Bite #vfq,Mark Bailey shared a post.,835,0,11:14,0
+319,0,05/09/2018,2,The VFQ Insights are a great way to start the day (although sometimes so interesting getting back to the day job is challenging :) ) Today's Insight contains a self assessment - What type of Innovator are you? Have a go and share your profiles with colleagues as this also helps in understanding each others preferences!  our Entrepreneurial Style Assessment ,Dawn Berry,841,0,09:18,0
+320,0,04/09/2018,,"  Need to keep up to date with pharma news?
+The SinglePoint News Portal provides a one stop shop for all pharma news information, we are offering a number of overview seminars to help you become familiar with the new platform:
+GSK/SinglePoint Overview 2
+Thursday 13th September
+3:00pm to 3:30pm UK time / 10:00am to 10:30am US time
+GSK/SinglePoint Overview 3
+Thursday 27th September
+3pm to 3:30pm UK time / 10am to 10:30am US time
+To register for any of the above please contact the Information Hub and indicate the date of the seminar you would like to attend so we can send a formal invite with WebEx contact details. 
+Please use the same link if you have any questions or require further information ",Daniel Griffin,833,0,14:25,0
+321,0,03/09/2018,,"For the latest news, announcements, and information regarding the R&D Tech Small Projects Service!",Andrew Williamson shared a group.,842,0,15:55,0
+322,0,31/08/2018,6,"The Fourth VFQ Lite Bite session on Value Propositions took place and the materials are now available. @#VFQ
+Recorded video session - ""VFQ - Lite Bite #4 - Value Propositions"" - https://wb.gsk.com/viewerportal/gsktube/video.vp…
+Slides – https://connect.gsk.com/…/Lite%20Bites%20session%20%204%20V…
+Also discussed at Lite Bites session 4 a slide deck with Consolidated Templates from the Lite Bite sessions - https://connect.gsk.com/…/Consolidated%20Templates%20from%2…
+The Objective of the sessions:
+• Are you and your team following the Agile Solution Centre VFQ Guide Route?
+• Are you trying to implement new ways of working following the VFQ principles and essential practices?
+• Have you identified an area where you and your team need more education? If so, then these VFQ Lite Bite sessions are for you.
+Who's it for: Open invitation to anyone that is practicing or looking to practice agile ways of working within their organization.
+The next Lite Bite Session #5 – Value Stream Mapping will be held Wednesday, 5th of September 3pm to 4pm (BST)
+The next Clinic is Thursday, 6th of September 8am to 9am (BST)
+Visit the Agile Solution Center (ASC) https://connect.gsk.com/…/…/Pages/Agile-Solution-Centre.aspx and Work Based Education Offerings, https://connect.gsk.com/…/Agile%20training%20available%20in… for more Agile information.",Andy Bonner shared a link.,851,0,14:59,0
+323,0,28/08/2018,11,UP - get ready for the most exciting Agile posters you will ever see! Julie Turner and I met and brainstormed poster ideas that would capture R&D Tech's attention. Stay tuned...,Alexis Piazza,900,0,15:20,0
+324,0,30/08/2018,,Value Propositions in today’s lite bite session #vfq,Mark Bailey shared a post.,851,0,09:54,0
+325,0,29/08/2018,,Saw some unbadged visitors at UP the other day.,Armin Jahromi shared a post.,850,0,16:59,0
+326,5,14/08/2018,24,Eye tracking arrives at the R&D Tech UX Suites...,Simon Fortenbacher,1005,5,15:55,578
+327,0,28/08/2018,1,"Researchers say that by employing innate genetic differences between people—an inborn susceptibility to alcohol, say, or to higher cholesterol levels in the arteries—they can now mimic, at much less effort and expense, the kinds of large trials that would be necessary to determine if an HDL-lowering medicine is really beneficial.",Bob Sutterley shared a link.,860,0,14:52,0
+328,0,21/08/2018,6,"Starting on the 24th August the R&D Tech Site will be migrating to Sharepoint Office 365, if you are a topic site owner please make sure all pages are checked in otherwise they will not migrate. 
+Also, to support the strategy to simplify the intranet and move content engagement from intranet to Workplace, news publishing will no longer be embedded in the community site. Take a look at how the CGA community are directing their readers to Workplace.
+More news on R&D Tech news to come! ",Takara Dover,874,0,15:41,0
+329,10,22/08/2018,29,"Please join me in congratulating Carolyn Squire for a hugely impressive 30 years at GSK today! Carolyn has worked across multiple sites including Greenford, Ware and Stevenage. Carolyn has seen tremendous change in her 30 years at GSK and significantly contributed to the transformation from the multiple physical libraries we had many years ago to the extensive GSK digital library we offer today. Thank you Carolyn for your immense experience, expertise and good humour. You are a pleasure to work with and I look forward to many more successful years. Congratulations!",Helen Malone,913,2,10:03,0
+330,2,24/08/2018,,Anyone interested in helping us develop these ideas ?,Peter McMeekin shared a post.,872,0,09:13,0
+331,0,23/08/2018,3,"How do information and business process modellers accellerate projects' delivery of high quality, standardised, data that's analytics ready?",Kristin Love shared a post.,861,0,19:31,0
+332,0,23/08/2018,7,"REGULATORY INSPECTION READINESS
+Are you responsible in some way for a GxP computer system(s) (Business System Owner, IT Service Specialist, Support, etc.)?  If so, are you inspection ready? Inspection Readiness is the state of being successfully prepared for a regulatory inspection at a moment’s notice, such that, ideally, there are no (or minimal, insignificant) inspection findings at the conclusion of the Inspection.  
+Below is a real-world inspection scenario involving computer systems and it is happening now in GSK.
+In preparation for the upcoming GSK GCP Process inspection, as part of the pre-inspection dossier, the MHRA has requested a listing of computer systems used in the conduct of clinical trials including the following information:
+• Computer System Name
+• What does it do? (e.g. TMF, CRF, IVRS etc.)
+• Off the Shelf or In House Developed?
+• System Supplier
+• Version number (for each version of the system released over the last 3 years or since the last MHRA inspection)
+• Installation Date
+• Validation status
+• Reason for Change
+• Who validated?
+• Server Host and Location
+Do you, as a responsible person, have this information accurate, readily available, and at your fingertips so that it can be provided on short notice (i.e. within 24 hours)?  Do you have it for each version of the system even if you were not the one responsible for previous versions?  Is it documented somewhere where the collective information for all systems is readily available (e.g. System Inventory or registry) and can be readily updated as the information changes over time (e.g. new versions of the system)?
+If you can answer “yes” to the above questions, then you are (at least initially) likely on the “Ready” end of the Inspection Readiness spectrum.
+As we continue to ponder inspection readiness in light of the pre-inspection information requested, we can also now begin to speculate what other queries or requests could be made once the inspectors arrive on site and begin the inspection proper (e.g. evidence of validation such as validation reports or testing documentation, evidence of training for those responsible for or involved in the validation of the systems, lists of change controls, evidence of supplier, service provider, and/or host management, associated SOPs, etc.).
+Each inspection is unique and we cannot predict with certainty the direction any one inspection or inspector will go with regard to computer systems queries or requests but being inspection ready is understanding what is required and expected and what directions are possible then being prepared even if the queries or requests never materialize.",Bill McDonald,866,0,17:30,0
+333,3,10/08/2018,20,Great effort by the Tech people involved in this. And a fab outcome!,Stephen McManus shared a post.,913,0,07:45,0
+334,0,23/08/2018,3,"Final item on #vfq today, for those on the self guided pathway, the 3rd litebite session was recorded. Details are:
+The third VFQ Lite Bite session on Understanding Value took place and the materials are now available. @#VFQ
+**Recorded video session - VFQ Lite Bite Session #3 - Understanding Value **- https://wb.gsk.com/viewerportal/gsktube/video.vp…
+Slides – https://connect.gsk.com/…/Lite%20Bites%20Session%203%20Unde…
+Also discussed at Lite Bites session 3 was the below video attached for your reference: Spacex Falcon 9 development of their reusable rocket – a brilliant example of build-test-learn and their philosophy of 'no failure' - just learning! https://www.youtube.com/watch?v=tU1b1H2EWU4--
+The Objective of the sessions:
+• Are you and your team following the Agile Solution Centre VFQ Guide Route?
+• Are you trying to implement new ways of working following the VFQ principles and essential practices?
+• Have you identified an area where you and your team need more education?
+If so, then these VFQ Lite Bite sessions are for you.
+Who's it for: Open invitation to anyone that is practicing or looking to practice agile ways of working within their organization.
+The** next Lite Bite Session #4 – Value Propositions will be held Thursday, August 30th 2pm to 3pm (BST)**
+The next Clinic is tomorrow Thursday, August 23rd 8am to 9am (BST)
+Visit the **Agile Solution Center (ASC) **https://connect.gsk.com/…/…/Pages/Agile-Solution-Centre.aspx and Work Based Education Offerings, https://connect.gsk.com/…/Agile%20training%20available%20in… for more Agile information.",Andy Bonner,859,0,13:32,0
+335,0,23/08/2018,1,And for those wanting to engage with #vfq as a reminder you can start via:,Andy Bonner shared a link.,868,0,13:31,0
+336,0,23/08/2018,3,"Thanks to Peter McMeekin and Gill Clark for the invitation to talk about the Agile/VFQ transformation in R&D Tech, in the Stevenage Networking session. We would be happy to run other sessions at other locations or for other teams #vfq",Andy Bonner,871,0,13:12,0
+337,0,22/08/2018,5,"Is anyone else loving the new default 'focused' inbox in Outlook? It does a great job of filtering out the non-essentials for later reading (LinkedIn notifications, industry subscriptions, etc)",Terri Strobel,867,0,19:50,0
+338,,,,"Included with the current Office 365 updates, you'll notice a change to your Outlook mailbox. Focused Inbox separates your inbox into two tabs—Focused and Other. Your most important emails are on the Focused tab while the rest remain easily accessible—but out of the way—on the Other tab. You'll be informed about email flowing to the 'other' tab, such as newsletters but if something goes into the 'other' tab you can choose to move it to the 'focused' tab (or vice versa). Focused Inbox intelligently presorts your email so you can focus on what matters, if you don't like the feature you can also switch it off, find out more:",Terri Strobel,,,,
+339,0,21/08/2018,2,"I'd like to welcome BALAJI THANGARAJAN to our Information Management team.
+Bala, who will be located in Stevenage, has extensive experience in all types of Data Modelling, especially in the MDM domain, around substance and product as well as party and reference data. He has recently worked in the Regulatory area (MHRA – IDMP, GDPR) but also spent some time in AZ (repository upgrades across R&D) and IMS (e.g. Real World Data).
+Bala will be part of Information and Business Process Modelling Core Team (aka IB team), and will be taking up many of the responsibilities of Indranil, who recently left the team.
+He will primarily support Clinical, Medical and Regulatory (CMR), and is your key contact surrounding:  
+-Projects in CMR space  
+-the RD CDM,   
+-the MDM LDM   
+-and the R&D (IB) Data Dictionary
+For any inquiries about data modelling or business process modelling, you can reach Bala and the rest of the IB team through IBconsult@gsk.com  Welcome, Bala!",Kristin Love shared a post.,872,0,17:51,0
+340,0,22/08/2018,4,"WE NEED YOUR HELP! A joint investigation between the Innovation Hub and WREF to improve car parking at Upper Providence has just begun. Our first iteration will prove value from a RAG status enabled site map on entrance, using colour changing Hue light bulbs to indicate availability. How would you solve this problem? ",Eddie Dukes shared a post.,874,0,13:20,0
+341,0,22/08/2018,12,"We just had the results from an internal QA facility assessment of UK Records Management and Archiving (RMA). It was conducted to assess the level of compliance with UK GLP regulations, GCP compliance and GSK policies and procedures. Pleased to say the team had great outcome with one minor finding around a training record needing a small change. Thanks to our RMA team for having everything nicely in control :-)",Ben Langley shared a link.,873,0,11:48,0
+342,0,08/08/2018,6,"If you are new to Workplace, here's some quick tips on where to post your news and how to share it with other groups.
+You can post tech information in the R&D Tech group.
+If you feel your post is also pertinent to another group, such as Pharma R&D, select the Share button, type in the group name, and select Post.
+You may also share more broadly in tech, by selecting the Chat to Kat group; however, please make sure your content is appropriate for the global GSK Tech audience.",Julie Turner,936,0,19:06,0
+343,0,20/08/2018,3,#RDtech,Julie Turner is with Emily Boyce.,892,0,16:57,0
+344,3,17/08/2018,39,"Eileen Ching has just secured an exciting new role in PCPS.  We have used this as an opportunity to review APX organisation and have made some changes which we think will help us improve accountability and drive an even better User Experience for R&D. Simon Fortenbacher will be heading up our new User Experience team (combining our existing Ux and Enterprise change accountabilities into one group).  This will present good development opportunities for everyone involved and help us leverage synergies between the groups.  Please join me in thanking Eileen for everything she has done for RD Tech and wishing her luck in her new role.  
+
+The RD Tech News Item linked below has more details behind the changes and the remit of the combined team. 
+https://connect.gsk.com/sites/rd_it/News/Pages/Announcing-changes-to-the-RD-Tech-Enterprise-Change-and-Usability-Teams.aspx",Ben Langley,918,3,11:58,0
+345,0,20/08/2018,19,"E-WorkBook goes live to first biologists!
+In response to the pulse survey feedback regarding GSK's systems and processes, a new experiment capture paradigm has been developed. The IDBS E-WorkBook is a cloud-hosted electronic lab notebook and offers a simplified user experience, while improving data connectivity, data re-use, and performance..
+An initial user group, comprised of 14 members from Protein and Cellular Sciences, are using the E-WorkBook in place of eLNB, for new experiments.
+The IDBS E-WorkBook functionality will be enhanced during the remainder of 2018. In addition, the user-base will be extended to 90 users within the Biology cohort. A decision to deploy more widely in 2019 will be driven by a clear demonstration of value.
+For more information on The IDBS E-WorkBook, please contact Sharon Sweitzer (Product Owner) or Richard Bolton (R&D Tech Sponsor).
+”E-WorkBook is very different from eLNB and has a more user-friendly, up-to-date, and flexible interface.” Emma Jones, Protein Design and Production",Julie Turner is with Halina Roberts and 3 others.,935,4,12:57,0
+346,2,19/08/2018,,Why not fill ordinary code with benign bugs as a way of fooling potential attackers? The idea is to force attackers to use up their resources finding and testing bugs that will be of no use to them.,Bob Sutterley shared a link.,885,0,16:15,0
+347,0,17/08/2018,5,Thanks Lorraine King for these great Skype Meeting best practice tips!!,Arron Docherty shared a post.,880,0,12:56,0
+348,0,16/08/2018,3,"FYI - Intelligence out of the 4th European Clinical Trial Inspection Readiness Summit indicates an increase in Inspectors with an IT background accompanying inspectors for EMA Inspections. They focus on system validation, data review, audit trail review and IT processes.",Bill McDonald,886,0,14:43,0
+349,0,16/08/2018,2,#RDtech,Julie Turner,906,2,14:29,0
+350,0,15/08/2018,7,"Experiment Futures programme achieved VFQ level 1 attainment. Congratulations to the team on this significant milestone, delivering value to their customers. If you want to know more please feel free to contact the team #vfq",Richard Hather,891,0,16:57,107
+351,0,15/08/2018,2,For those that missed the second #vfq Lite Bite session the materials and recordings are now available...,Mark Bailey shared a post.,893,0,08:29,0
+352,2,14/08/2018,4,FYI - GSK Git instances are linked within this thread,Alex Brown shared a post.,920,0,17:12,0
+353,0,14/08/2018,4,"In a paper released in Nature Medicine yesterday, DeepMind researchers described an AI system that can identify more than 50 diseases, refer them to a specialist, and, most important, indicate which portion of a medical scan prompted the diagnosis.",Bob Sutterley shared a link.,894,0,19:34,0
+354,6,14/08/2018,16,"I just received news that the Experiment Capture Futures [lighthouse] project just had confirmation of reaching VFQ Maturity Level 1. The first to do so in R&D Tech (2nd in all Tech). A great milestone - well done team!
+When is the target for Level 2? :)
+I daresay the other lighthouse projects won't be far behind so look forward to hearing their success.
+cc: Richard Hather",Shane Weaver is celebrating success.,912,0,12:01,0
+355,0,14/08/2018,3,"The latest Tech Change Summary for R&D is now available.
+The aim of the Change Summary is to provide a simplified view of Technology changes which are likely to affect your GSK PC or R&D business area within the next 6 months.
+#Tech4RD",Armin Jahromi shared a post.,911,0,00:57,0
+356,0,14/08/2018,4,Four teams collaborating on the surface hubs in Stevenage and UP to map customer jobs. #vfq,Mark Bailey,897,0,14:43,0
+357,0,14/08/2018,6,#RDtech,Julie Turner,918,2,13:26,0
+358,0,13/08/2018,7,Key milestone reached for the CDISC program......,Andy Iona shared a post.,908,0,11:34,0
+359,11,02/08/2018,36,"Congratulations to Alexis Piazza celebrating 5 years at GSK, first on the Future Leader programme and now with the APX team.
+Thank you for your energy, enthusiasm and delivery focus Alexis!",Peter McMeekin,988,2,09:19,0
+360,0,10/08/2018,3,The Q2 L&PE newsletter has just hit your inbox! The L&PE Comms Team would love to hear your opinion on how you'd like to recieve L&PE news in the future. Please take part in the poll below and let us know your thoughts - thank you!,Takara Dover created a poll.,902,0,14:11,0
+361,2,08/08/2018,14,"This is a very good video and in a simple way explains a lot of the behavioral changes we will need to make in order to be more ""agile"". Enjoy!",Gina Phelps shared a post.,920,0,18:55,0
+362,0,10/08/2018,7,"The first VFQ Lite Bite session on Goals took place and the materials are now availabe.
+Session Slides
+Recorded video of session
+#vfq
+There are 10 sessions total each with a different topic. VFQ Lite Bite Sessions
+The Objective of the sessions:
+Are you and your team following the Agile Solution Centre VFQ Guide Route?
+Are you trying to implement new ways of working following the VFQ principles and essential practices?
+Have you identified an area where you and your team need more education?
+If so, then these VFQ Lite Bite sessions are for you.
+Who's it for:
+Open invitation to anyone that is practicing or looking to practice agile ways of working within their organisation.",Mark Bailey,911,2,08:57,0
+363,3,06/08/2018,,There seems to be a buzz around Power BI on Workplace at the moment. Do we have anybody in R&D Tech making use of this?,Simon Fortenbacher,952,0,10:29,0
+364,2,24/07/2018,13,"We held a tremendously successful series of Target Data Landscape workshops last week. The sessions were well attended (we peaked at 24 attendees) and allowed us to review the status of our master data, and opportunities to exploit more fully.
+My major highlights from the week...
+We identified one major opportunity to use our product family master data to support ONE Pharma objectives.
+We also identified significant opportunities to source reliable equipment master data.
+We remphasized the importance of batch/lot/sample master datasources, such as LACIR. We are already seeing actions in response to this.
+We initiated the definition of a master data catalogue - providing a searchable index of all R&D master and reference data sources.
+Kristin Love will be producing a more formal write up shortly.",Colin Wood,967,0,10:28,0
+365,2,08/08/2018,6,"“Digital transformation is more of an organizational and managerial challenge than it is a technological one. As organizations mature, they are less likely to report that IT leads this digital progress...When digital progress is led by technologists, companies often end up with glittering technologies that either go unused or fail to meet the business’s objectives.”",Bob Sutterley shared a link.,927,0,03:36,0
+366,5,09/08/2018,1,We need YOU!,Chris K Smith shared a post.,921,0,13:50,0
+367,0,08/08/2018,1,"Sharing for awareness for anyone using SharePoint and interested/require the audit logging capability, I recently found out that with our migration to SharePoint Online we lose the ability to log ""open"" and ""download"" events.",Shane Weaver shared a link.,922,0,13:01,0
+368,0,07/08/2018,4,"If you haven't seen this yet, great article on Product and how to define Value Proposition!
+http://www.emergn.com/blog/learning/what-is-a-product/",Gina Phelps,923,0,20:04,0
+369,0,07/08/2018,8,"23 things to know about our collaboration with 23andMe 
+Have questions about GSK's recently announced collaboration with 23andMe? Curious about how genetics can help us discover medicines? Wondering about the data privacy implications? Read the interview with Matt Nelson, our Head of Genetics to learn 23 things about our collaboration with 23andMe. #23andMe #innovation 🤯",Shane Weaver shared a post.,929,0,15:34,0
+370,0,03/08/2018,12,"Another fun and energising VFQ Foundations 2 days with folks from ELNB, BioPharm, Argus, IRM to name a few in UP. Some great discussions about how we take this further and great ideas and work generated.
+Thanks to Desh Deshpande and Kate Foster for coleading a fab two days. Next time we’ll bring a jet pack! 😁 #vfq",Mark Bailey,996,0,00:36,0
+371,0,06/08/2018,3,#UXsuite,Julie Turner is with Shweta Sharma and 4 others.,970,0,16:00,85
+372,0,06/08/2018,4,Simple user focused idea!,Shailaja Bulgannawar shared a post.,999,0,15:27,0
+373,0,06/08/2018,3,"A big thank you Marco Bondoc and Pauline Kitchiner of our Cambridge clinical trials unit for hosting Tom Beshaw and me last week.
+Our goal was to understand more about the healthy volunteer and patient experience during and after a clinical trial.
+With the insights we gained, we can ensure that the future digital products we build are rooted in meeting patient needs and addressing the pain points we discovered.",Tiara Warlop is with Marco Bondoc and Tom Beshaw.,936,0,15:21,0
+374,0,03/08/2018,4,"R&D Tech is offering a 6 months secondment to a Business Consultant (BC) role within the Clinical, Medical and Regulatory Tech function (in Stockley Park or Upper Providence). The role will be aligned to Clinical Trial Design, Planning, Analysis and Reporting technology, and may touch upon both Technology and Digital, Data and Analyics.
+For more detials, please use the URL to the posting below or contact Kate Foster .
+URL:",Kate Foster shared a link.,943,0,15:59,0
+375,0,03/08/2018,1,"Optimising creative thinking through group discussions in the Innovation Hub this afternoon. Planning next steps to a video camera enabled fume cupboard, using the VFQ ways of working.",Eddie Dukes shared a post.,1004,0,14:49,0
+376,0,02/08/2018,2,"Windows 10 Upgrade is now on pause!
+The Windows 10 upgrade in R&D and R&D Tech has been paused until further notice. GSK Tech is reviewing the programme, to simplify and enhance the Windows 10 build and upgrade process.",Arron Docherty shared a link.,964,6,15:55,0
+377,0,26/07/2018,4,"There is a known issue with Unix Samba and Windows 10 connectivity where Windows 10 clients unable to access Samba resources. R&D IT Unix are rolling out the fix to their supported Server portfolio. For non R&D IT supported servers, we're happy to share the fix.",Stephen Wan,957,0,11:26,0
+378,0,02/08/2018,1,"Now that we've delivered 4 out of the 5 scheduled Personal Development Mini-series in the L&PE Infoburst sessions... is there an appetite for more?
+If you have any topic suggestions please comment below!",Alexandra Richards created a poll.,949,0,13:40,0
+379,0,02/08/2018,1,"Great summer read ... ""Far from being novel, our era is the Second Networked Age, with the computer in the role of the printing press""",Peter McMeekin shared a link.,950,0,08:59,0
+380,0,02/08/2018,1,"What Do Digital Leaders Look Like? They provide vision and purpose, create conditions to experiment, and empower people to think differently",Bob Sutterley shared a link.,950,2,03:28,0
+381,0,02/08/2018,2,"As you think about how you want to learn and grow, don’t fall victim to the common trap of building your development plan around a formal learning program. Decide on a skill you want to develop, do some research on the skill, set a series of progressive goals, ask a colleague for feedback to get a sense of how you’re doing.",Bob Sutterley shared a link.,948,0,03:22,0
+382,2,01/08/2018,6,"THANK YOU to the Usability CoE in R&D Tech! Shweta Sharma Walia and Shivani Desai went above and beyond to rapidly partner and execute UX testing for the Effort Tracking system. Most importantly, they made the process EASY for me. Greatly appreciated!
+I give them an A+ and highly recommend reaching out to them if you are interested in UX testing.",Alexis Piazza shared a post.,971,0,14:18,0
+383,0,01/08/2018,6,"IDBS provide e2e support for a number of vendor and GSK developed applications in the Discovery Screening portfolio including ActivityBase and ORM. This service continues to provide a high quality service that is valued by our PTS scientists as is shown by the continued outstanding VOC feedback…. From the 300 + tickets fielded by the IDBS service over the last year, scientists have provided feedback against 40% with 99.5% positive, 0.5% neutral and no (0%) negative responses !",Steve Head,1032,0,11:13,0
+384,0,31/07/2018,5,"Just a quick update from Jim Wilkers on what’s new on the Agile Solution Centre (https://connect.gsk.com/…/Agile-Scrum-Me…/Pages/default.aspx) please check it out an provide any feedback to Jim, Andy Bonner or your local coach
+Quick update on whats new on the ASC..
+•Added the Agile Transformation Workplace group to the page
+•Updates the FAQ with v2 (thanks those whpo provided feedback)
+•Added the VGQ clinics and Lite bite session schedules on the Work Based Education Offerings which is also linked to the Getting started section.
+•Added an Agile Transformation banner on the Tech Community pointing staff to the ASC",Mark Bailey shared a link.,979,0,23:19,0
+385,6,25/07/2018,9,"In the spirit of ""making things easier"" for R&D Tech and the transformation to agile ways of working, the R&D Tech L&PE Team is looking for volunteers to provide feedback on a redesign of our One Stop Shop.  Anyone in R&D Tech is welcome to participate - just comment your willingness to provide feedback against this post.",Bob Sutterley,1003,0,20:29,0
+386,7,17/07/2018,17,"Welcome to new starters Chris Michael (16-Jul) and Amy Stein (2-Jul), the newest members of the Records Management and Archiving Team based at Upper Merion!",Eric Ramsey is with Chris Michael.,985,0,14:53,0
+387,0,30/07/2018,12,Proud to be spreading news of some great work done by Ben Ye and Jammy Niu in RD Tech China,Ben Langley shared a post.,951,0,18:31,0
+388,3,27/07/2018,12,"#Andy Bonner emailed out a July Newsletter for the Agile Transformation in R&D Tech.
+There's more on the Lighthouses, the Self-Guided Pathway to adopting VFQ, and on running Experiments as the way to determine what is right for us. #vfq",Richard Baxter uploaded a file.,961,0,15:49,0
+389,3,26/07/2018,23,Collaborating across the continents with the ELNB team doing Story Mapping in Stevenage and UP using the SurfaceHub. #vfq,Mark Bailey,1095,0,16:12,0
+390,0,30/07/2018,1,Great Summary of some of the things being done across GSK to “Make It Easier”. We benefit from many of these as do our R&D customers. Please help spread the word...,Ben Langley shared a post.,960,0,08:10,0
+391,0,28/07/2018,9,"“Many organizations continue to relegate data-science knowledge to a small number of employees. That’s a mistake — and in the long run, it’s unsustainable. Think of it this way: Very few companies expect only professional writers to know how to write. So why ask only professional data scientists to understand and analyze data, at least at a basic level?”",Bob Sutterley shared a link.,981,3,17:46,0
+392,0,28/07/2018,5,#webexupgrade #webex #collaboration,Eileen Ching shared a post.,948,0,01:07,0
+393,0,27/07/2018,2,"Check out the new tip added to ""Top 10 tech tips"" on Tech4RD! 
+R&D staff's email will be migrated to Office 365 environment the week of August 6th. This tip is a MUST READ if you use your mobile device to access GSK email!
+https://connect.gsk.com/sites/rd_it/IT4RD/Pages/top10.aspx
+#tech4rd",Eileen Ching shared a post.,953,0,22:18,0
+394,0,27/07/2018,1,"For those who missed the self guided pathway session yesterday for #vfq, details below. Or in Richard Baxter’s post or the emailed newsletter.",Andy Bonner,948,0,18:37,0
+395,2,25/07/2018,19,"Two day VFQ foundations course for the Argus cc in Poznań was full of fantastic energy and some great discussion along with some very strange directions 😂
+Thanks to Magda for joining us from TechOps to help the team on there VFQ journey",Mark Bailey,1051,2,10:34,0
+396,0,26/07/2018,4,I noticed these drop-in sessions are starting soon...,Richard Baxter shared a post.,986,0,11:41,0
+397,0,26/07/2018,3,"Anyone started using this Self-Guided route to adopting VFQ in their team, or thinking about it?  (links to news article posted by #Andy Bonner)
+#vfq",Richard Baxter,954,0,11:36,0
+398,6,17/07/2018,26,"Great turn out to the APX all hands. Introductions to the growing team and a breakdown of new VFQ ways of working and what ""Value"" really means...",Chris K Smith,998,0,13:27,0
+399,0,24/07/2018,6,"Do you know there are 3 easy ways to share files from #OneDrive?
+Click here to see how!
+#Tech4RD  #O365",Armin Jahromi shared a post.,986,0,21:05,0
+400,0,24/07/2018,2,"Great tip from Kieron Scrutton to save you having to manually log into Concur when you use the IOS app - couple of clicks in settings and you can just use Touch ID - NICE :)
+https://gsk-workplace.facebook.com/groups/118792355430508/permalink/231467744162968/",Ben Langley shared a post.,970,0,17:24,0
+401,6,21/07/2018,21,Congratulations and thanks to Eileen Ching as she celebrates 25 years at GSK. We cut a celebratory cake in her honour at UP this week (sorry I forgot to take a photo in all the excitement!).,Ben Langley,987,0,12:23,0
+402,3,24/07/2018,5,We're in the right path with ping 2FA but this is where I'd like us to be,Shane Weaver shared a link.,1016,0,08:07,0
+403,0,24/07/2018,,"Announcement: Tech Leadership Team update
+As the Tech function continues to transform to make sure it’s set to deliver GSK’s Innovation, Performance and Trust priorities in the best possible way, there are some changes to the GSK Tech Leadership team supporting both R&D and Operations:  
+R&D Tech
+• Simon Roach will leave GSK at the end of September to pursue new business opportunities in Tech and Digital
+• To support Hal Barron's strategy in the new era of R&D, Mike Montello will replace Simon as the new SVP, R&D Tech, and will be based at Upper Providence.
+Tech Operations
+• Adam Raeburn-James, SVP Tech Operations, will leave GSK on 14 September. As a result of this change J. Martin will take on full responsibility for Tech Operations, in addition to his current Tech Platforms remit with effect from 1 August 2018.
+• Brian Gilbert will replace Adam as VP Tech Operations and will start with GSK on 1 August, he will be based at RTP.
+
+Read the full article here ",Eileen Ching shared a post.,958,0,14:34,0
+404,3,24/07/2018,15,"eTrack CC team is using Agile to deliver eTrack Maintenance Release. One of our lessons learnt from past sprints is how important a Product Backlog with well-defined User Stories is.
+Last Thursday in Stockley Park eTrack CC team met with Product Owner Gary Denman to discuss the Refinement process that will ensure the Product Backlog quality. What we want to achieve is frequent interaction with eTrack stakeholders and being responsive to their requirements.
+The process we agreed on involves both IT and business parts as we are sure that only this way the requirements transformed to User Stories can be efficiently delivered. We follow SCRUM rules to optimize business value coming from future releases.
+#etrackagilestory #agile #vfq #etrack",Anna Bernatowicz-Malyszko is with Ewa Samardakiewicz and 5 others.,976,0,10:09,0
+405,9,21/07/2018,53,Who’s made it into Workplace? Please like the post if you have started to explore. Anyone got any ideas on how we should best use this group?,Ben Langley,994,0,12:25,0
+406,0,19/07/2018,8,"We conducted our first set of Usability Test Sessions in our UP UX Suite! After receiving great feedback from our users as well as recording some key learnings to improve the space, we're looking forward to keeping the iterative process going. Keep an eye out for more updates on the UP UX Suite!",Shivani Desai is with Shweta Sharma.,984,0,20:09,0
+407,5,19/07/2018,,"hi everyone! following up on the Symantec services killing Windows 10... (former post https://www.yammer.com/gsk.com/…)
+latest question is, has any developer running AngularJS, Node.js, Visual Studio experienced bad performance in Windows 10?
+I'm on build 1703 but I don't want to spend hours re-installing my tools to get build 1709 and end up with the same slowness...
+Kind regards,
+Sebastian",Sebastian Ballarati,1003,0,20:22,0
+408,0,23/07/2018,1,Join us in Chat To Kat #chattokat for the Making IT easier Techburst,Simon Roach,977,0,12:55,0
+409,0,23/07/2018,1,TechBurst today! - join Chat to Kat on Workplace,Julie Turner shared a post.,997,0,11:13,0
+410,10,18/07/2018,5,,Shane Weaver,1077,0,14:51,0
+411,0,20/07/2018,5,"WHY WAIT FOR A COMPLETED VERSION TO TEST WITH USERS
+Research indicates ‘For every $1 spent to resolve a problem during product design, $10 would have to be spent on the same problem during development, and $100 or more to solve after release.’
+Usability testing  (UT) can be done as early as a sketch or mockup (referred as Formative UT). Test your system mockups early with real users, in the UX Labs.
+CHANGES ARE DIFFICULT, BUT AS LONG AS YOU ARE BUILDING...
+...WHEN WOULD YOU RATHER HAVE THEM COMING?",Shweta Sharma,1054,0,21:03,0
+412,0,20/07/2018,,"Hi everyone, i'm looking for information on the process to make a database the primary repository for data for a specific workflow. I have had a look on the intranet but i was not able to find anything... anyone who could help me?",Armelle Tolson,974,0,16:10,0
+413,0,19/07/2018,4,"VFQ Q&A Clinics Launched.
+All details in the post below, but it is not just for GA&D but for everyone!
+Find a session and see what is happening",Mark Bailey shared a post.,1041,2,08:13,0
+414,0,19/07/2018,2,"Coming soon! R&D Tech User Experience Suite. For more information, contact Luke D'Amore or Anthony Slater (Stevenage) - or - Shivani Desai or Shweta Sharma Walia (UP)",Julie Turner shared a post.,992,0,18:36,0
+415,0,19/07/2018,1,"For more information about this topic, email Frank Chen or Ben Ye of R&D Tech",Julie Turner shared a post.,992,0,18:19,0
+416,0,19/07/2018,1,,Julie Turner shared a post.,992,0,18:18,0
+417,0,19/07/2018,3,Making technology easier for R&D,Julie Turner shared a post.,977,0,15:43,0
+418,0,19/07/2018,2,,Julie Turner shared a post.,991,0,15:27,0
+419,0,19/07/2018,5,,Julie Turner,995,0,14:27,0
+420,0,19/07/2018,1,,Julie Turner,996,0,12:42,0
+421,,,,,Julie Turner,,,,
+422,0,18/07/2018,2,"We heard your feedback at the One Pharma Tech Town Hall. You said we should experiment with a buddy challenge to help embed One Pharma ways of working.
+Your challenge: Connect with at least one person in One Pharma Tech who is not in your organization.
+Guidelines to help you be successful in your mission:
+•Choose someone who may be working on something similar, someone you may learn from or someone who may be working on something that interests you. Aim to connect with someone you have never talked to before.
+•Not sure who to talk to?  Create a post in this Workplace group. Post the topics you are interested in learning about or describe your projects and skillset and offer to talk with people who might be interested in reaching out to you.
+•Make this part of your development plan.  Learning from others is an important part of development. With the 70/20/10 approach, 20% of your development should be through other people (conversations, networks, relationships, asking questions of the right people).
+Sharing successes:
+•If you demonstrate a cross-boundary collaboration success, you are encouraged to share your experience in this Workplace group.
+After this challenge:
+•Don’t just limit yourself to one connection. This challenge will get you thinking about including learning from others as a natural way of working. Continue connecting!
+•Don’t let it stop with a single conversation. Continue the conversation with your new contact or ask that person who you should talk to next.",Julie Turner shared a post.,1012,0,15:23,0
+423,0,17/07/2018,7,"R&D Tech have hit the ground running in 2018 - focusing their efforts on making technology easier for R&D, within the IPT space. Below is a graphic of success that we are celebrating to date. Congrats R&D Tech! Keep up the good work! #RDtechMidYear",Julie Turner uploaded a file.,990,0,14:16,0
+424,2,17/07/2018,21,"eTrack CC team is using Agile to deliver eTrack Maintenance Release. Today in the Retrospective meeting team discussed what could be changed in next sprints to improve the work processes. The question we focussed on mostly was how to redefine our approach to testing to be more agile and avoid following the waterfall path. Team also shared feedback on what went really well in the last sprint. We appreciate a lot cooperation with QRC (thank you, Aaron!) and we are enjoying the constant learning process.
+#etrackagilestory #vfq #agile #etrack",Anna Bernatowicz-Malyszko is with Tomasz Kawecki and 10 others.,994,0,15:04,0
+425,0,17/07/2018,4,"Questions about a Game of Thrones episode inspired Jon Eversham to find a similar way to make it easier and faster to find answers to his Project Mgmt questions. Read more about the Prismbot to do just that, prototyped by Roslyn Nilson and Dustin Tarditi of the R&D Tech Innovation Hub team.
+https://connect.gsk.com/…/Innovation-Hub/Pages/Prismbot.aspx",Amber Anderson is with Janaki Patel and 6 others.,987,0,14:20,0
+426,0,17/07/2018,5,"In R&D Tech we have SUS scores for 43 of our applications, from over 800 users, with 340 pieces of VoC. Visit the UX Toolbox or e-mail RDTechUX@gsk.com for more information.",Simon Fortenbacher shared a post.,990,0,11:15,0
+427,0,16/07/2018,10,"Did you know, by saving files to your #OneDrive, you may share an Office 365 document (Word, Excel, PowerPoint) from within the document?
+#Tech4RD #O365",Armin Jahromi,1011,2,21:07,345
+428,0,16/07/2018,4,"Looking forward to our TechBurst next Monday? Watch Karenann Terrell talk all things Making it Easier with Jen Baxter It's a longish watch (25 mins) so bring your morning coffee, your afternoon sandwich or your evening snack whereever you are in GSK Tech! Click the link below to view...",Julie Turner shared a post.,987,0,17:18,0
+429,0,12/07/2018,6,"Eddie Dukes and Megan Bell from the R&D Tech Innovation Hub visited The CUC at Addenbrookes; and ran an Innovation Clinic to share the work the team is doing, and seek out new areas of focus.",Megan Bell,986,0,09:56,0
+430,0,16/07/2018,,https://aws.amazon.com/events/aws-innovate/#agenda,Nikolay Nikolov shared a link.,983,0,15:30,0
+431,0,16/07/2018,6,"As with all forms of communication within GSK, please adhere to the Write Right guideline, when posting to Workplace. Thank you.
+URL: https://connect.gsk.com/sites/legal/WriteRight/Pages/default.aspx",Julie Turner,988,0,14:00,0
+432,0,16/07/2018,4,"Finding answers to his questions about Game of Thrones was the inspiration for R&D collaborator, Jon Eversham, to seek a solution for more easily gettng info from Prism, GSK's Portfolio Database. Read more here about the ""Prism bot"" designed and prototyped by Dustin Tarditi and Roslyn Nilson of the R&D Tech Innovation Hub team:
+https://connect.gsk.com/…/Innovation-Hub/Pages/Prismbot.aspx",Amber Anderson is with Janaki Patel and 6 others.,987,0,14:00,0
+433,0,13/07/2018,7,,Bob Sutterley shared a link.,1003,0,02:48,0
+434,0,15/07/2018,4,"Microsoft is thinking about AI not only as algorithms but as workflows.
+https://www.microsoft.com/…/the-story-of-an-office-ai-feat…/
+Introducing CAPERS
+The feature is called a Calendar-Aware Proactive Email Recommender System (CAPERS). While the acronym is a mouthful, the concept is simple: Outlook understands meetings and their context well enough to recommend the key emails that might help someone plan for a meeting. Using AI, CAPERS proactively selects and recommends potentially useful emails to users based on their upcoming calendar events, with a particular focus on meeting preparation.
+Recommendation engines must accurately predict what people will want and need. AI can make the workflow of meeting preparation more productive, because it can predict which emails would actually help one prepare for a meeting. There is a relationship between content (email), location and time (calendar) that can be measured, and AI can identify those relationships with the highest predicted usefulness.",Bob Sutterley,986,0,22:07,0
+435,0,16/07/2018,1,The Innovation Hub can be found in the Stevenage lift lobby this lunch time. Please drop-by to share any innovative ideas or see how we have helped transform business users lives through the use of technology!,Eddie Dukes shared a post.,994,0,11:53,0
+436,0,16/07/2018,4,We're often asked if we can provide more guidelines for designing usable user interfaces. Shweta from the R&D Tech UX CoE has put together some great examples of using the VIMM approach to reducing users' cognitive load through thoughtful interface design. You can find these in the link below.,Simon Fortenbacher shared a post.,991,0,09:26,0
+437,0,16/07/2018,,Does anyone have real world examples of devices supporting clinical trial data collection?,Chris K Smith shared a post.,987,0,09:07,0
+438,0,16/07/2018,,"At BioIT World last year, I had the privilege of seeing this presentation which speaks to ""facilitated innovation""...moving beyond social networks to building ""cognitive networks"".  Exaptive's platform has matured since then and it continues to intrigue me.  Check out Exaptive's YouTube Channel for more recent details on their application platform and value propositions.  I'm still in touch with the company's founder so let me know if you would like me to arrange a connection to them.",Bob Sutterley,985,0,02:02,0
+439,0,13/07/2018,1,,Shane Weaver made Julie Turner and Takara Dover admins.,984,0,20:24,0
+440,0,13/07/2018,2,Leaders will be able to operate as true digital leaders only when they shake their reliance on structure as the primary tool of organizational design and instead start assigning accountabilities in ways that instigate focused responses to opportunities,Bob Sutterley shared a link.,984,0,02:35,0
+441,0,12/07/2018,8,"User experience (UX) suites have been planned for both Stevenage and Upper Providence. The UX suites are designed to collect important data from several user experiences. Data collected will assist R&D Tech in making technology or design improvements, which will benefit their business partners. Listed here is a short description of activities performed within the UX suite:
+• Usability testing – Understanding how end users go about using IT systems developed by R&D Tech. This provides insight into intuitiveness, efficiency, effectiveness, acceptability and overall satisfaction.
+• Eye tracking – A UX technology that allows R&D Tech to visualise where end users are looking on the screen during Usability Testing. This provides insight to where key functions are located, enabling R&D Tech to improve screen layouts, making them easier to read.
+• User interviews – R&D Tech will sit 1x1 with an end user to understand more about their goals, expectations and how they go about their day-to-day jobs.
+• User observation – An audio visual (AV) room that allows IT experts to watch users during UX activities and gain a better understanding of how to make IT systems easier to use.
+• User presentations – A space for R&D Tech to demo new tools and technologies
+• Focus groups – A collaboration space to discuss the needs and expectations with R&D user communities
+Stevenage:
+For more information, contact: Luke D’Amore or Anthony Slater
+Upper Providence:
+For more information, contact: Shivani Desai or Shweta Sharma
+Follow us on Workplace: #uxsuite",Julie Turner is with Shweta Sharma and 3 others.,988,0,15:22,0
+442,0,12/07/2018,26,I am over in UP this week. It’s been super to catch up with RDTech team and customers here. It was also great to see RD Tech being the feature of the site “celebration” wall (prominent in reception) this month where we can highlight some of our Tech successes.,Ben Langley,988,0,13:03,0
+443,5,12/07/2018,,"Help with Application Development Standard (ADS)
+WADS had Control 5.2.19 ""Idle user sessions must timeout."" but I dont see a reference to this in the relatively new ADS standard WADS was replaced with. Does anyone know if such a control still exists or who might know?",Ross Kaan,985,0,13:42,0
+444,5,11/07/2018,5,Group created so we can migrate R&D Tech discussions from Yammer,Shane Weaver,987,0,11:11,0
+445,2,12/07/2018,2,It is very quiet in this group do we have an official cutover day for RD Tech staff?,Peter McMeekin,1025,0,09:00,0
+446,4,11/07/2018,,"This week I have been using PGP. PGP stands for Pretty Good Privacy and in my case I am using it for file encryption. I've been using a tool called GPG to do this. Here's the gist of how it works:
+Recipient generates a public/private certificate/key
+Recipient shares the public key with the sender (it's public so no privacy needed for sending this)
+Sender uses the public key to encrypt the file (nobody can decrypt this other than the person with the private key, not even the sender!)
+Sender sends the encrypted file to the recipient
+Recipient decrypts the file with the private key
+If you ever need to send a sensitive file that is only for the eyes of a specific person, this is the way to do it.",Shane Weaver,984,0,15:27,0
+447,0,11/07/2018,1,Just be aware that some/all of R&D haven't yet migrated from Yammer so choose wisely where to post or when to x-post ;),Shane Weaver,984,0,16:02,0
+448,0,11/07/2018,5,"This group will enable R&D Tech to connect, ask questions and share ideas, successes and learnings. Join the conversation!",Ben Langley updated the description.,985,0,12:59,0
+449,0,11/07/2018,1,"First person to take a decent picture of a laptop (blank screen) in a non-sensitive lab environment, i'll make it the group banner :)",Shane Weaver,985,0,11:21,0
+450,0,11/07/2018,1,,Shane Weaver created the group R&D Tech.,985,0,11:10,0
